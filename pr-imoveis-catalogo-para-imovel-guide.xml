@@ -1,0 +1,3235 @@
+<?xml version='1.0' encoding='utf-8'?>
+<imoveis origem="PR Imóveis" tipo="catalogo-para-integracao" observacao="Formato generico; validar layout com Imovel Guide">
+  <imovel>
+    <codigo>AP00001</codigo>
+    <tipo>APARTAMENTO</tipo>
+    <titulo>Imperdível! Apartamento à venda em Araraquara-SP, Jardim Morumbi: 2 quartos, 1 suíte, 2 salas, 1 vaga de garagem, 61m².</titulo>
+    <descricao>Wish Morumbi - O Melhor do Morumbi é Aqui! Descubra o Wish Morumbi, um empreendimento que une sofisticação, conforto e uma localização privilegiada. Ideal para quem busca viver com estilo e praticidade no coração do Morumbi. Destaques do Wi</descricao>
+    <preco>380000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>JARDIM MORUMBI</bairro>
+    <dormitorios>2</dormitorios>
+    <suites>1</suites>
+    <vagas>1</vagas>
+    <area_construida>61</area_construida>
+    <area_terreno>4490</area_terreno>
+    <destaque>Pronto para morar</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/01/6033ee4816b4f5d846a4b1fa5aca91a7.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>AP00002</codigo>
+    <tipo>APARTAMENTO</tipo>
+    <titulo>0</titulo>
+    <descricao />
+    <preco>1450000</preco>
+    <cidade>Guarujá</cidade>
+    <bairro>Pitangueiras</bairro>
+    <dormitorios>3</dormitorios>
+    <suites>1</suites>
+    <vagas>4</vagas>
+    <area_construida>10</area_construida>
+    <area_terreno>0</area_terreno>
+    <destaque>Alto padrão</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/01/da002653f42e1e0d62f80dbac3a8a586.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>AP00003</codigo>
+    <tipo>APARTAMENTO</tipo>
+    <titulo>0</titulo>
+    <descricao />
+    <preco>450000</preco>
+    <cidade>PRAIA GRANDE</cidade>
+    <bairro>AVIAÇÃO</bairro>
+    <dormitorios>2</dormitorios>
+    <suites>1</suites>
+    <vagas>1</vagas>
+    <area_construida>57</area_construida>
+    <area_terreno>0</area_terreno>
+    <destaque>Pronto para morar</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/01/d101b0520e8aba44541107f31fbb83ed.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00001</codigo>
+    <tipo>CASA</tipo>
+    <titulo>0</titulo>
+    <descricao />
+    <preco>730000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>PARQUE ATLANTA</bairro>
+    <dormitorios>3</dormitorios>
+    <suites>1</suites>
+    <vagas>2</vagas>
+    <area_construida>130</area_construida>
+    <area_terreno>200</area_terreno>
+    <destaque>Oportunidade</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/01/364e69f6924946713829dd11f6adf0eb.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00002</codigo>
+    <tipo>CASA</tipo>
+    <titulo>0</titulo>
+    <descricao />
+    <preco>350000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>JARDIM CRISTO REI (VILA XAVIER)</bairro>
+    <dormitorios>2</dormitorios>
+    <suites>0</suites>
+    <vagas>2</vagas>
+    <area_construida>139,51</area_construida>
+    <area_terreno>250</area_terreno>
+    <destaque>Oportunidade</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/01/262ebfefe792825d9f0464362a7b9a68.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00003</codigo>
+    <tipo>CASA</tipo>
+    <titulo>0</titulo>
+    <descricao />
+    <preco>550000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>VILA CIDADE INDUSTRIAL (VILA XAVIER)</bairro>
+    <dormitorios>2</dormitorios>
+    <suites>1</suites>
+    <vagas>2</vagas>
+    <area_construida>223</area_construida>
+    <area_terreno>459</area_terreno>
+    <destaque>Oportunidade</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/01/bf4d9f6aab86444c7cdaf8eb9cce4a0d.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>AP00004</codigo>
+    <tipo>APARTAMENTO</tipo>
+    <titulo>0</titulo>
+    <descricao />
+    <preco>265000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>RESIDENCIAL CAMBUY</bairro>
+    <dormitorios>1</dormitorios>
+    <suites>0</suites>
+    <vagas>1</vagas>
+    <area_construida>51,88</area_construida>
+    <area_terreno>0</area_terreno>
+    <destaque>Pronto para morar</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/01/6171a49d12340cab0e4605e15b6a9d89.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00004</codigo>
+    <tipo>CASA</tipo>
+    <titulo>0</titulo>
+    <descricao />
+    <preco>1800000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>VILA HARMONIA</bairro>
+    <dormitorios>3</dormitorios>
+    <suites>3</suites>
+    <vagas>5</vagas>
+    <area_construida>200</area_construida>
+    <area_terreno>360</area_terreno>
+    <destaque>Alto padrão</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/01/faefb34d16e7e331591984843c50ce1d.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>AP00005</codigo>
+    <tipo>APARTAMENTO</tipo>
+    <titulo>0</titulo>
+    <descricao />
+    <preco>275363</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>VILA CIDADE INDUSTRIAL (VILA XAVIER)</bairro>
+    <dormitorios>2</dormitorios>
+    <suites>0</suites>
+    <vagas>1</vagas>
+    <area_construida>0</area_construida>
+    <area_terreno>0</area_terreno>
+    <destaque>Pronto para morar</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/01/71de35d6609deeaef69b4fd55607b31f.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>AP00006</codigo>
+    <tipo>APARTAMENTO</tipo>
+    <titulo>0</titulo>
+    <descricao />
+    <preco>411128</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>VILA CIDADE INDUSTRIAL (VILA XAVIER)</bairro>
+    <dormitorios>3</dormitorios>
+    <suites>1</suites>
+    <vagas>1</vagas>
+    <area_construida>0</area_construida>
+    <area_terreno>0</area_terreno>
+    <destaque>Pronto para morar</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/01/9f762b313cc30f369068297ea330a0d1.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>AP00007</codigo>
+    <tipo>APARTAMENTO</tipo>
+    <titulo>Apartamento à venda na Vila Xavier, Araraquara-SP: 3 quartos, 1 suíte, 2 salas, 2 banheiros, 1 vaga de garagem, 62,14 m².</titulo>
+    <descricao />
+    <preco>235000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>VILA XAVIER (VILA XAVIER)</bairro>
+    <dormitorios>3</dormitorios>
+    <suites>1</suites>
+    <vagas>1</vagas>
+    <area_construida>62,14</area_construida>
+    <area_terreno>0</area_terreno>
+    <destaque>Pronto para morar</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/01/389b49fafe6504f7766bdb5b90bf197e.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>SA00001</codigo>
+    <tipo>SALA</tipo>
+    <titulo>Oportunidade Única: Sala Comercial à Venda no Centro de Araraquara-SP - 20 salas, 3 vagas de garagem, 600m² de área</titulo>
+    <descricao />
+    <preco>2500000</preco>
+    <cidade>Araraquara</cidade>
+    <bairro>Centro</bairro>
+    <dormitorios>0</dormitorios>
+    <suites>0</suites>
+    <vagas>3</vagas>
+    <area_construida>600</area_construida>
+    <area_terreno>256</area_terreno>
+    <destaque>Alto padrão</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/01/1aa847f06f78c69735f85b2b7a65b185.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00005</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Espetacular casa em condomínio à venda em Guarujá-SP, Balneário Praia do Pernambuco: 5 quartos, 5 suítes, 4 vagas e 458m²</titulo>
+    <descricao />
+    <preco>6500000</preco>
+    <cidade>GUARUJÁ</cidade>
+    <bairro>BALNEÁRIO PRAIA DO PERNAMBUCO</bairro>
+    <dormitorios>5</dormitorios>
+    <suites>5</suites>
+    <vagas>4</vagas>
+    <area_construida>458</area_construida>
+    <area_terreno>0</area_terreno>
+    <destaque>Alto padrão</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/01/7546cf998dc5fcd83ffa6d695db82863.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00006</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Casa em Condomínio à Venda em Araraquara-SP, Jardim dos Industriários: 2 Quartos, 1 Sala, 2 Vagas de Garagem - 45,00m²</titulo>
+    <descricao />
+    <preco>219990</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>Jardim Iguatemi</bairro>
+    <dormitorios>2</dormitorios>
+    <suites>0</suites>
+    <vagas>2</vagas>
+    <area_construida>45</area_construida>
+    <area_terreno>160</area_terreno>
+    <destaque>Oportunidade</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/01/abf0adc43e72166e832ac227c6a868c7.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>AP00008</codigo>
+    <tipo>APARTAMENTO</tipo>
+    <titulo>Apartamento de Luxo na Vila Harmonia: 4 Quartos, 4 Suítes, 2 Salas, 4 Banheiros, 2 Vagas de Garagem - Araraquara-SP</titulo>
+    <descricao />
+    <preco>1300000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>VILA HARMONIA</bairro>
+    <dormitorios>4</dormitorios>
+    <suites>4</suites>
+    <vagas>2</vagas>
+    <area_construida>157,86</area_construida>
+    <area_terreno>8427,84</area_terreno>
+    <destaque>Alto padrão</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/01/d0bfa39776551374add10df57cd8dcd3.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00007</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Imperdível Casa à Venda em Araraquara-SP, Bairro Chácara Flora: 2 Quartos, 2 Salas, 1 Vaga, 45,85 m²!</titulo>
+    <descricao />
+    <preco>185000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>CHÁCARA FLORA ARARAQUARA</bairro>
+    <dormitorios>2</dormitorios>
+    <suites>0</suites>
+    <vagas>1</vagas>
+    <area_construida>45,85</area_construida>
+    <area_terreno>200</area_terreno>
+    <destaque>Oportunidade</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/01/f717f0758415f8ab849b5f92001e5c60.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00008</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Imperdível Casa à Venda em Araraquara-SP, 2 Quartos, 2 Salas, 1 Banheiro, 1 Vaga, 45m² no Parque Residencial Valle Verde.</titulo>
+    <descricao />
+    <preco>213690</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>Jardim São Lucas</bairro>
+    <dormitorios>2</dormitorios>
+    <suites>0</suites>
+    <vagas>1</vagas>
+    <area_construida>45</area_construida>
+    <area_terreno>0</area_terreno>
+    <destaque>Oportunidade</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/01/ed13d3df4916a63ea54bd9c088e81619.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>AP00009</codigo>
+    <tipo>APARTAMENTO</tipo>
+    <titulo>Apartamento à venda em Araraquara-SP, no Jardim das Flores: 3 quartos, 1 suíte, 2 salas, 2 banheiros, 1 vaga e 90,80 m² de área!</titulo>
+    <descricao />
+    <preco>330000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>JARDIM DAS FLORES</bairro>
+    <dormitorios>3</dormitorios>
+    <suites>1</suites>
+    <vagas>1</vagas>
+    <area_construida>162,62</area_construida>
+    <area_terreno>0</area_terreno>
+    <destaque>Pronto para morar</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/01/f81a3b5e8ac76e4b066478310116e754.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00009</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Casa em Condomínio de Luxo na Vila Nossa Senhora do Carmo, Araraquara-SP: 3 quartos, 1 suíte, 2 salas, 2 vagas, 143,54m².</titulo>
+    <descricao />
+    <preco>450000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>Jardim Morumbi</bairro>
+    <dormitorios>3</dormitorios>
+    <suites>1</suites>
+    <vagas>2</vagas>
+    <area_construida>143,54</area_construida>
+    <area_terreno>284,73</area_terreno>
+    <destaque>Oportunidade</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/01/a143f1efc2168db9b97ecb9331dd595e.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00010</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Casa em Condomínio à Venda em Araraquara-SP : 3 quartos, 1 suíte, 2 salas, 2 vagas, 143,54m².</titulo>
+    <descricao />
+    <preco>450000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>Jardim Morumbi</bairro>
+    <dormitorios>3</dormitorios>
+    <suites>1</suites>
+    <vagas>2</vagas>
+    <area_construida>143,54</area_construida>
+    <area_terreno>284,73</area_terreno>
+    <destaque>Oportunidade</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/01/5f91d077cb1bf6e989d086a3672317fd.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00011</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Casa à venda em Araraquara-SP: 2 quartos, 1 suíte, 2 salas, 3 banheiros, 5 vagas de garagem e 180m² de área no Jardim Maria Luiza!</titulo>
+    <descricao />
+    <preco>295000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>JARDIM MARIA LUIZA</bairro>
+    <dormitorios>2</dormitorios>
+    <suites>1</suites>
+    <vagas>5</vagas>
+    <area_construida>180</area_construida>
+    <area_terreno>200</area_terreno>
+    <destaque>Oportunidade</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/01/19dc60f4a6c419139a916d46c11aa09e.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>AP00010</codigo>
+    <tipo>APARTAMENTO</tipo>
+    <titulo>Apartamento à venda em Araraquara-SP, Jardim das Gaivotas: 2 quartos, 1 sala, 1 vaga de garagem, 48,30 m² de área.</titulo>
+    <descricao />
+    <preco>206000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>JARDIM DAS GAIVOTAS</bairro>
+    <dormitorios>2</dormitorios>
+    <suites>0</suites>
+    <vagas>1</vagas>
+    <area_construida>0</area_construida>
+    <area_terreno>33259</area_terreno>
+    <destaque>Pronto para morar</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/01/d79183097ca2b9191dc4d3c4a7ffb795.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>AP00011</codigo>
+    <tipo>APARTAMENTO</tipo>
+    <titulo>Apartamento de 2 quartos com suíte no Centro de Araraquara-SP: 72,00 m², 2 salas e vaga de garagem!</titulo>
+    <descricao />
+    <preco>430000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>CENTRO</bairro>
+    <dormitorios>2</dormitorios>
+    <suites>1</suites>
+    <vagas>1</vagas>
+    <area_construida>0</area_construida>
+    <area_terreno>0</area_terreno>
+    <destaque>Pronto para morar</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/01/2116404cbb6fe61b56ad7d6af285a9f3.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>AP00012</codigo>
+    <tipo>APARTAMENTO</tipo>
+    <titulo>Apartamento à venda no Centro de Araraquara-SP: 2 quartos, 1 suíte, 2 salas, 2 vagas de garagem, 72m² de área. Adquira já!</titulo>
+    <descricao />
+    <preco>540000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>CENTRO</bairro>
+    <dormitorios>2</dormitorios>
+    <suites>1</suites>
+    <vagas>2</vagas>
+    <area_construida>0</area_construida>
+    <area_terreno>0</area_terreno>
+    <destaque>Pronto para morar</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/01/fd58b569be42beb7a2f7bf3dc39da208.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>AP00013</codigo>
+    <tipo>APARTAMENTO</tipo>
+    <titulo>0</titulo>
+    <descricao />
+    <preco>480000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>JARDIM MORUMBI</bairro>
+    <dormitorios>3</dormitorios>
+    <suites>1</suites>
+    <vagas>2</vagas>
+    <area_construida>0</area_construida>
+    <area_terreno>0</area_terreno>
+    <destaque>Pronto para morar</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/01/fb52f472569a5b167dca162c4a93ca59.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00012</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Imperdível: Casa à venda em Araraquara-SP, Condomínio Buona Vita, 4 quartos, 3 suítes, 3 salas, 3 vagas, 175m².</titulo>
+    <descricao />
+    <preco>1100000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>CONDOMÍNIO BUONA VITA</bairro>
+    <dormitorios>3</dormitorios>
+    <suites>3</suites>
+    <vagas>4</vagas>
+    <area_construida>175</area_construida>
+    <area_terreno>300</area_terreno>
+    <destaque>Alto padrão</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/01/2aa5e8861eff22961981e54ac6d10e46.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>AP00014</codigo>
+    <tipo>APARTAMENTO</tipo>
+    <titulo>Venda de Apartamento de 2 Quartos na Vila Santa Maria, Araraquara-SP: 51,70 m² e 1 Vaga de Garagem!</titulo>
+    <descricao />
+    <preco>120000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>VILA SANTA MARIA (VILA XAVIER)</bairro>
+    <dormitorios>2</dormitorios>
+    <suites>0</suites>
+    <vagas>1</vagas>
+    <area_construida>51</area_construida>
+    <area_terreno>0</area_terreno>
+    <destaque>Pronto para morar</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/01/9891a16f7deca26f970665d7d867d664.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>AP00015</codigo>
+    <tipo>APARTAMENTO</tipo>
+    <titulo>Apartamento à venda na Vila Suconasa em Araraquara-SP! 2 quartos, 1 suíte, 2 salas, 1 vaga de garagem, 48,45m² de área.</titulo>
+    <descricao />
+    <preco>266700</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>VILA SUCONASA</bairro>
+    <dormitorios>2</dormitorios>
+    <suites>1</suites>
+    <vagas>1</vagas>
+    <area_construida>48,45</area_construida>
+    <area_terreno>10790,25</area_terreno>
+    <destaque>Pronto para morar</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/01/353692c5a984fdd5c83fd54b0a8dda6b.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>AP00016</codigo>
+    <tipo>APARTAMENTO</tipo>
+    <titulo>Apartamento à venda em Araraquara-SP, Vila Suconasa: 2 quartos, 1 suíte, 1 sala, 1 vaga, 46m² de área</titulo>
+    <descricao />
+    <preco>226000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>VILA SUCONASA</bairro>
+    <dormitorios>2</dormitorios>
+    <suites>1</suites>
+    <vagas>1</vagas>
+    <area_construida>46</area_construida>
+    <area_terreno>0</area_terreno>
+    <destaque>Pronto para morar</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/01/313e79e2a3bf6bd2fee5365ff7999814.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>AP00017</codigo>
+    <tipo>APARTAMENTO</tipo>
+    <titulo>Apartamento à venda em Araraquara-SP no Jardim Morumbi: 3 quartos, 1 suíte, 2 banheiros, 2 vagas, 76m². Venha conferir!</titulo>
+    <descricao />
+    <preco>490000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>JARDIM MORUMBI</bairro>
+    <dormitorios>3</dormitorios>
+    <suites>1</suites>
+    <vagas>2</vagas>
+    <area_construida>76</area_construida>
+    <area_terreno>0</area_terreno>
+    <destaque>Pronto para morar</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/01/831e73096de4c0fe451997402b15a1b5.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>TE00001</codigo>
+    <tipo>TERRENO</tipo>
+    <titulo>Terreno à venda em condomínio no Jardim Salto Grande em Araraquara-SP com 275m² de área</titulo>
+    <descricao />
+    <preco>245000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>JARDIM SALTO GRANDE</bairro>
+    <dormitorios>0</dormitorios>
+    <suites>0</suites>
+    <vagas>0</vagas>
+    <area_construida>0</area_construida>
+    <area_terreno>275</area_terreno>
+    <destaque>Para construir</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/01/03714a0623dd2d10f66c7cf7b5438898.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00013</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Casa em Condomínio de Luxo em Araraquara-SP - 3 Quartos, 1 Suíte, 2 Salas e 167,95 m² - Imperdível no Jardim Salto Grande!</titulo>
+    <descricao />
+    <preco>850000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>JARDIM SALTO GRANDE</bairro>
+    <dormitorios>3</dormitorios>
+    <suites>1</suites>
+    <vagas>2</vagas>
+    <area_construida>167,95</area_construida>
+    <area_terreno>300</area_terreno>
+    <destaque>Oportunidade</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/01/ef0089b3a4d4e5c7f359143ea3b6c0d3.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CH00001</codigo>
+    <tipo>CHACARA</tipo>
+    <titulo>Chácara à venda em Araraquara-SP, no bairro Chácara Flora: 1 quarto, 2 banheiros, 150m² de área.</titulo>
+    <descricao>?LINDA CHÁCARA EM ARARAQUARA ? ?4.000 m² ?1 casa com quarto, sala e cozinha. ?1 área de lazer completa com quarto e banheiros masculino e feminino ?4 banheiros ?casa na árvore com tirolesa ?vários ambientes para descansar e se reunir ?lindo</descricao>
+    <preco>1000000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>CHÁCARA FLORA ARARAQUARA</bairro>
+    <dormitorios>1</dormitorios>
+    <suites>0</suites>
+    <vagas>0</vagas>
+    <area_construida>150</area_construida>
+    <area_terreno>4000</area_terreno>
+    <destaque>Alto padrão</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/01/bd2e5aece2d1b4eb6d8abebbd80834c1.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00014</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Casa à venda em Machados: 3 quartos, 1 suíte, 2 salas, 4 banheiros, 2 vagas, 244m² de área. Imperdível!</titulo>
+    <descricao>Casa a venda no Bella Vitta (Sobrado) - Fase 1 Frente para cidade, excelente localização! Área construída: 244m² São 3 Quartos sendo 1 com suite/ closet/ banheira e 2 chuveiros + 2 quartos, 1 banheiro e ampla sacada na parte superior. No té</descricao>
+    <preco>850000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>Condomínio Bella Vitta</bairro>
+    <dormitorios>3</dormitorios>
+    <suites>1</suites>
+    <vagas>2</vagas>
+    <area_construida>244</area_construida>
+    <area_terreno>200</area_terreno>
+    <destaque>Oportunidade</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/01/fd2e371ceb1543b6b32f462562f17e66.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00015</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Imperdível Casa à Venda em Araraquara-SP no Jardim Salto Grande: 4 Quartos, 2 Suítes, 2 Salas, 2 Vagas de Garagem, 204m²</titulo>
+    <descricao />
+    <preco>1270000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>JARDIM SALTO GRANDE</bairro>
+    <dormitorios>4</dormitorios>
+    <suites>2</suites>
+    <vagas>2</vagas>
+    <area_construida>204</area_construida>
+    <area_terreno>300</area_terreno>
+    <destaque>Alto padrão</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/01/d45954ade461fe74e72f2d115d3559ee.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>AP00018</codigo>
+    <tipo>APARTAMENTO</tipo>
+    <titulo>Apartamento à venda em Araraquara-SP, Cidade Jardim: 2 quartos, 1 sala, 1 vaga, 41,05 m². Aproveite!</titulo>
+    <descricao />
+    <preco>254500</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>CIDADE JARDIM</bairro>
+    <dormitorios>2</dormitorios>
+    <suites>0</suites>
+    <vagas>1</vagas>
+    <area_construida>41,05</area_construida>
+    <area_terreno>9663,92</area_terreno>
+    <destaque>Pronto para morar</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/01/ce862f4bef9a77ae5b1bfd9441f0b571.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>AP00019</codigo>
+    <tipo>APARTAMENTO</tipo>
+    <titulo>Imperdível Apartamento à Venda em Araraquara-SP, Jardim Bounganville: 2 Quartos, 1 Suíte, 2 Salas e 1 Vaga de Garagem!</titulo>
+    <descricao />
+    <preco>372800</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>JARDIM BOUNGANVILLE</bairro>
+    <dormitorios>2</dormitorios>
+    <suites>1</suites>
+    <vagas>1</vagas>
+    <area_construida>8677,76</area_construida>
+    <area_terreno>6307,95</area_terreno>
+    <destaque>Pronto para morar</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/01/3f49ef9c03391ba75aed32e6989c1958.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>AP00020</codigo>
+    <tipo>APARTAMENTO</tipo>
+    <titulo>Apartamento à venda no Jardim Botânico, Araraquara-SP: 2 quartos, 1 suíte, 2 salas, 1 vaga, 57,20 m²!</titulo>
+    <descricao />
+    <preco>376800</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>JARDIM BOTÂNICO</bairro>
+    <dormitorios>2</dormitorios>
+    <suites>1</suites>
+    <vagas>1</vagas>
+    <area_construida>16830,69</area_construida>
+    <area_terreno>6585,12</area_terreno>
+    <destaque>Pronto para morar</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/01/d3f2d760ab7d7cea11edcac5c6e42442.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>AP00021</codigo>
+    <tipo>APARTAMENTO</tipo>
+    <titulo>Apartamento à venda em Araraquara-SP, 10º Distrito Industrial - 2 quartos, 2 salas, 1 vaga de garagem!</titulo>
+    <descricao />
+    <preco>220500</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>Jardim Pinheiros</bairro>
+    <dormitorios>2</dormitorios>
+    <suites>0</suites>
+    <vagas>1</vagas>
+    <area_construida>18713,76</area_construida>
+    <area_terreno>19292,72</area_terreno>
+    <destaque>Pronto para morar</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/01/06fe5991c7d80e717b443cad6b728c77.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>AP00022</codigo>
+    <tipo>APARTAMENTO</tipo>
+    <titulo>Imperdível Apartamento à Venda em Araraquara-SP, Jardim Margarida: 2 quartos, 1 suíte, 1 sala, 1 banheiro, 1 vaga, 50,64 m².</titulo>
+    <descricao />
+    <preco>295300</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>JARDIM MARGARIDA</bairro>
+    <dormitorios>2</dormitorios>
+    <suites>1</suites>
+    <vagas>1</vagas>
+    <area_construida>8956,15</area_construida>
+    <area_terreno>7789,64</area_terreno>
+    <destaque>Pronto para morar</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/01/4660154af9d82c4982d6aa7bce252226.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>AP00023</codigo>
+    <tipo>APARTAMENTO</tipo>
+    <titulo>Apartamento à venda em Araraquara-SP no Jardim Morumbi: 2 quartos, 1 suíte, 2 banheiros, 1 vaga, 61m². Venha conhecer!</titulo>
+    <descricao />
+    <preco>680000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>JARDIM MORUMBI</bairro>
+    <dormitorios>2</dormitorios>
+    <suites>1</suites>
+    <vagas>1</vagas>
+    <area_construida>61</area_construida>
+    <area_terreno>0</area_terreno>
+    <destaque>Pronto para morar</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/01/09c3e6769131411378ca58b763fc3a75.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00016</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Imperdível oportunidade! Casa à venda em Araraquara-SP, Vila Furlan: 3 quartos, 1 suíte, 3 salas, 3 banheiros, 3 vagas, 196,32m².</titulo>
+    <descricao />
+    <preco>650000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>VILA FURLAN</bairro>
+    <dormitorios>3</dormitorios>
+    <suites>1</suites>
+    <vagas>3</vagas>
+    <area_construida>196,32</area_construida>
+    <area_terreno>201,91</area_terreno>
+    <destaque>Oportunidade</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/01/4afc3505d019c1c9c3829d1a9c942839.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>AP00024</codigo>
+    <tipo>APARTAMENTO</tipo>
+    <titulo>Apartamento à venda no Centro de Araraquara-SP: 2 quartos, 1 vaga de garagem!</titulo>
+    <descricao />
+    <preco>340000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>JARDIM DOS MANACÁS</bairro>
+    <dormitorios>2</dormitorios>
+    <suites>0</suites>
+    <vagas>1</vagas>
+    <area_construida>71,95</area_construida>
+    <area_terreno>0</area_terreno>
+    <destaque>Pronto para morar</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/02/4edd8cb0f1859e640067599f6f007625.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>AP00025</codigo>
+    <tipo>APARTAMENTO</tipo>
+    <titulo>Imperdível oportunidade de apartamento à venda na Vila José Bonifácio, Araraquara-SP: 3 quartos, 1 suíte, 3 salas, 2 vagas, 314,16 m².</titulo>
+    <descricao />
+    <preco>850000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>VILA JOSÉ BONIFÁCIO</bairro>
+    <dormitorios>3</dormitorios>
+    <suites>1</suites>
+    <vagas>2</vagas>
+    <area_construida>314,16</area_construida>
+    <area_terreno>0</area_terreno>
+    <destaque>Pronto para morar</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/02/d85eff6b1fcc2f7fe26535826566c892.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00017</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Imperdível! Casa à venda em Araraquara-SP, Vila Yamada. 3 quartos, 1 suíte, 1 sala, 3 banheiros, 4 vagas de garagem, 254,46m².</titulo>
+    <descricao />
+    <preco>350000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>VILA YAMADA</bairro>
+    <dormitorios>3</dormitorios>
+    <suites>1</suites>
+    <vagas>4</vagas>
+    <area_construida>254,46</area_construida>
+    <area_terreno>300</area_terreno>
+    <destaque>Oportunidade</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/02/e62c2669e990a2d9cd7c834335295e42.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CH00002</codigo>
+    <tipo>CHACARA</tipo>
+    <titulo>Chácara de luxo à venda no Jardim Botânico, Araraquara-SP: 3 quartos, 3 suítes, 3 salas, 8 banheiros, 15 vagas, 470m².</titulo>
+    <descricao />
+    <preco>1600000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>JARDIM BOTÂNICO</bairro>
+    <dormitorios>3</dormitorios>
+    <suites>3</suites>
+    <vagas>15</vagas>
+    <area_construida>470</area_construida>
+    <area_terreno>4124,10</area_terreno>
+    <destaque>Alto padrão</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/02/07575af925722f67d779b1152968a0a9.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00018</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Casa em Condomínio à Venda em Araraquara-SP, Jardim Dumont: 2 Quartos, 2 Salas, 1 Banheiro, 2 Vagas de Garagem, 102,44m²</titulo>
+    <descricao />
+    <preco>350000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>JARDIM DUMONT</bairro>
+    <dormitorios>2</dormitorios>
+    <suites>0</suites>
+    <vagas>2</vagas>
+    <area_construida>102,44</area_construida>
+    <area_terreno>202,25</area_terreno>
+    <destaque>Oportunidade</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/02/f7ca5247519c301fca271fb7928b42ff.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>AP00026</codigo>
+    <tipo>APARTAMENTO</tipo>
+    <titulo>Apartamento à venda em Araraquara-SP: 2 quartos, 2 salas, 1 vaga de garagem no Residencial Acapulco - 48,76 m² de área.</titulo>
+    <descricao />
+    <preco>199000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>RESIDENCIAL ACAPULCO</bairro>
+    <dormitorios>2</dormitorios>
+    <suites>0</suites>
+    <vagas>1</vagas>
+    <area_construida>44,98</area_construida>
+    <area_terreno>0</area_terreno>
+    <destaque>Pronto para morar</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/02/dc3cfe2d089e2946ed5db3b4de90f571.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00019</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Imperdível casa à venda em Araraquara-SP, bairro Parque Gramado II: 3 quartos, 1 suíte, 2 salas, 2 vagas, 112 m².</titulo>
+    <descricao />
+    <preco>350000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>PARQUE GRAMADO II</bairro>
+    <dormitorios>3</dormitorios>
+    <suites>1</suites>
+    <vagas>2</vagas>
+    <area_construida>112</area_construida>
+    <area_terreno>250</area_terreno>
+    <destaque>Oportunidade</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/02/9138a6fdb25f9d9ad8be51fe888d57f9.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00020</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Imperdível! Casa à venda em Araraquara-SP, Vila Suconasa: 3 quartos, 2 suítes, 2 salas, 2 vagas de garagem, 242m².</titulo>
+    <descricao />
+    <preco>498000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>VILA SUCONASA</bairro>
+    <dormitorios>3</dormitorios>
+    <suites>2</suites>
+    <vagas>2</vagas>
+    <area_construida>242</area_construida>
+    <area_terreno>280</area_terreno>
+    <destaque>Oportunidade</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/02/5871c7c88c3362aa332aafe351b1fe26.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00021</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Imperdível oportunidade: Casa à venda em Araraquara-SP, no Ravena, com 2 quartos, 1 sala, 3 vagas de garagem e 68m².</titulo>
+    <descricao />
+    <preco>200000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>RESIDENCIAL RAVENA</bairro>
+    <dormitorios>2</dormitorios>
+    <suites>0</suites>
+    <vagas>3</vagas>
+    <area_construida>68</area_construida>
+    <area_terreno>308</area_terreno>
+    <destaque>Oportunidade</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/02/2bfacce1ec6123d6376309e10d76037f.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00022</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Imperdível oportunidade: Casa à venda na Vila Xavier, Araraquara-SP, 2 quartos, 1 sala, 1 banheiro, 2 vagas, 135m²</titulo>
+    <descricao />
+    <preco>200000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>VILA XAVIER (VILA XAVIER)</bairro>
+    <dormitorios>2</dormitorios>
+    <suites>0</suites>
+    <vagas>2</vagas>
+    <area_construida>135</area_construida>
+    <area_terreno>254</area_terreno>
+    <destaque>Oportunidade</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/02/0c2e7fae74426522a74534d5301d757f.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>TE00002</codigo>
+    <tipo>TERRENO</tipo>
+    <titulo>Terreno à venda em Araraquara-SP, no Altos do Jaraguá, com 365,30 m² de área!</titulo>
+    <descricao />
+    <preco>220000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>ALTOS DO JARAGUÁ</bairro>
+    <dormitorios>0</dormitorios>
+    <suites>0</suites>
+    <vagas>0</vagas>
+    <area_construida>0</area_construida>
+    <area_terreno>365,30</area_terreno>
+    <destaque>Para construir</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/02/dd62ed595ab4aa4bbf964ee1425248d9.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>TE00003</codigo>
+    <tipo>TERRENO</tipo>
+    <titulo>Terreno à venda em condomínio, 420m², Altos do Jaraguá, Araraquara-SP. Aproveite essa oportunidade!</titulo>
+    <descricao />
+    <preco>252000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>ALTOS DO JARAGUÁ</bairro>
+    <dormitorios>0</dormitorios>
+    <suites>0</suites>
+    <vagas>0</vagas>
+    <area_construida>0</area_construida>
+    <area_terreno>420</area_terreno>
+    <destaque>Para construir</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/02/525354b1ea213a13afc61e69a6f24297.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00023</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Casa para venda em Araraquara-SP, Jardim Arangá: 4 quartos, 2 suítes, 5 salas, 3 banheiros, 4 vagas de garagem, 273,85 m².</titulo>
+    <descricao />
+    <preco>750000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>JARDIM ARANGÁ</bairro>
+    <dormitorios>4</dormitorios>
+    <suites>2</suites>
+    <vagas>4</vagas>
+    <area_construida>273,85</area_construida>
+    <area_terreno>250</area_terreno>
+    <destaque>Oportunidade</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/02/5605e3ec0485f1cc688a68e7b967762e.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CH00003</codigo>
+    <tipo>CHACARA</tipo>
+    <titulo>Chácara à venda em Araraquara-SP, Jardim Zavanella: 3 quartos, 1 suíte, 3 salas, 3 banheiros, 4 vagas de garagem, 540,25 m².</titulo>
+    <descricao />
+    <preco>3200000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>JARDIM ZAVANELLA</bairro>
+    <dormitorios>3</dormitorios>
+    <suites>1</suites>
+    <vagas>4</vagas>
+    <area_construida>540,25</area_construida>
+    <area_terreno>5305,65</area_terreno>
+    <destaque>Alto padrão</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/03/2cde5f2f40f56d142bcdb5372e2d8fbb.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CH00004</codigo>
+    <tipo>CHACARA</tipo>
+    <titulo>Chácara à venda em Araraquara-SP, bairro Chácara Flora: 4 quartos, 1 suíte, 2 salas, 3 banheiros, 4 vagas, 239,74m².</titulo>
+    <descricao />
+    <preco>500000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>CHÁCARA FLORA ARARAQUARA</bairro>
+    <dormitorios>4</dormitorios>
+    <suites>1</suites>
+    <vagas>4</vagas>
+    <area_construida>239,74</area_construida>
+    <area_terreno>4000</area_terreno>
+    <destaque>Oportunidade</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/03/dce387f110f55a3491b45fe8015e8a3e.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>AP00027</codigo>
+    <tipo>APARTAMENTO</tipo>
+    <titulo>Apartamento à venda no Jardim Morumbi, Araraquara-SP: 3 quartos, 1 suíte, 2 salas, 2 banheiros, 2 vagas, 76m². Venha conhecer!</titulo>
+    <descricao />
+    <preco>600000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>JARDIM MORUMBI</bairro>
+    <dormitorios>3</dormitorios>
+    <suites>1</suites>
+    <vagas>2</vagas>
+    <area_construida>76</area_construida>
+    <area_terreno>0</area_terreno>
+    <destaque>Pronto para morar</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/03/13b2e41fcaf316f55aedbdb22843f6aa.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00024</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Casa de Luxo em Condomínio: 3 Quartos, 3 Suítes, 3 Salas, 5 Banheiros, 3 Vagas de Garagem, 279,70 m² - Bairro, São Paulo SP</titulo>
+    <descricao />
+    <preco>1150000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>ALTOS DO JARAGUÁ</bairro>
+    <dormitorios>3</dormitorios>
+    <suites>3</suites>
+    <vagas>3</vagas>
+    <area_construida>279,70</area_construida>
+    <area_terreno>379,28</area_terreno>
+    <destaque>Alto padrão</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/03/a43184354ba5eb803b4b23941cc44d96.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>TE00004</codigo>
+    <tipo>TERRENO</tipo>
+    <titulo>Terreno em Condomínio à Venda em Araraquara-SP, Residencial Quinta das Laranjeiras  444,20 m² de Área</titulo>
+    <descricao />
+    <preco>450000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>RESIDENCIAL QUINTA DAS LARANJEIRAS</bairro>
+    <dormitorios>0</dormitorios>
+    <suites>0</suites>
+    <vagas>0</vagas>
+    <area_construida>0</area_construida>
+    <area_terreno>444,20</area_terreno>
+    <destaque>Para construir</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/03/b958a427f5fd343eb1e6ee3ec948eb9a.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00025</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Imperdível: Casa à venda em Araraquara-SP, no Jardim Santa Lúcia, 3 quartos, 1 suíte, 3 salas, 2 vagas, 217,33m²!</titulo>
+    <descricao />
+    <preco>700000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>Jardim Morumbi</bairro>
+    <dormitorios>3</dormitorios>
+    <suites>1</suites>
+    <vagas>2</vagas>
+    <area_construida>217,33</area_construida>
+    <area_terreno>566,87</area_terreno>
+    <destaque>Oportunidade</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/03/229e8b1cf1d532e50d13e83877086a76.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00026</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Luxuosa casa à venda em Araraquara-SP, Jardim Morumbi, 3 quartos, 2 suítes, 3 salas, 4 vagas de garagem, 264m².</titulo>
+    <descricao />
+    <preco>1000000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>JARDIM MORUMBI</bairro>
+    <dormitorios>3</dormitorios>
+    <suites>2</suites>
+    <vagas>4</vagas>
+    <area_construida>264</area_construida>
+    <area_terreno>423,70</area_terreno>
+    <destaque>Alto padrão</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/03/60a8c02a0cc75e92ba68851dbafd52fe.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>AP00028</codigo>
+    <tipo>APARTAMENTO</tipo>
+    <titulo>Apartamento à venda em Araraquara-SP, Residencial Acapulco: 2 quartos, 1 sala, 1 banheiro, 1 vaga, 48,90 m² de área.</titulo>
+    <descricao />
+    <preco>199900</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>RESIDENCIAL ACAPULCO</bairro>
+    <dormitorios>2</dormitorios>
+    <suites>0</suites>
+    <vagas>1</vagas>
+    <area_construida>48,90</area_construida>
+    <area_terreno>0</area_terreno>
+    <destaque>Pronto para morar</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/03/c9c3b7fcc793961080cd3427e5432367.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00027</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Imóvel de luxo à venda em Araraquara-SP: 5 quartos, 2 suítes, 3 salas, 5 banheiros, 7 vagas de garagem, 280,79m² - Altos do Jaraguá.</titulo>
+    <descricao />
+    <preco>1450000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>ALTOS DO JARAGUÁ</bairro>
+    <dormitorios>5</dormitorios>
+    <suites>2</suites>
+    <vagas>7</vagas>
+    <area_construida>280,79</area_construida>
+    <area_terreno>470,84</area_terreno>
+    <destaque>Alto padrão</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/03/1df7fca97a4770cb8164d84c9b5f3a2d.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00028</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Imperdível oportunidade de compra: Casa com 3 suítes, 2 salas e 4 vagas de garagem em Araraquara-SP, Altos do Jaraguá - 223,00 m².</titulo>
+    <descricao />
+    <preco>1487000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>ALTOS DO JARAGUÁ</bairro>
+    <dormitorios>3</dormitorios>
+    <suites>3</suites>
+    <vagas>4</vagas>
+    <area_construida>223</area_construida>
+    <area_terreno>420</area_terreno>
+    <destaque>Alto padrão</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/03/dad8bbbdc194130f52baa967dc03bb67.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CH00005</codigo>
+    <tipo>CHACARA</tipo>
+    <titulo>Chácara de Luxo à Venda em Araraquara-SP  4 Quartos, 3 Suítes, 3 Salas, 5 Banheiros  335,78 m²  Bairro Chácara Flora</titulo>
+    <descricao />
+    <preco>1600000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>CHÁCARA FLORA ARARAQUARA</bairro>
+    <dormitorios>4</dormitorios>
+    <suites>3</suites>
+    <vagas>0</vagas>
+    <area_construida>335,78</area_construida>
+    <area_terreno>4000</area_terreno>
+    <destaque>Alto padrão</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/03/b8011650847cda3ade787390a6cf8e46.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>AP00029</codigo>
+    <tipo>APARTAMENTO</tipo>
+    <titulo>Apartamento à venda em Araraquara-SP, Jardim Residencial Paraíso: 2 quartos, 2 salas, garagem e 46m² de área.</titulo>
+    <descricao />
+    <preco>150000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>Jardim Botânico</bairro>
+    <dormitorios>2</dormitorios>
+    <suites>0</suites>
+    <vagas>1</vagas>
+    <area_construida>52,71</area_construida>
+    <area_terreno>0</area_terreno>
+    <destaque>Pronto para morar</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/03/87cf8bc075461a841eb4abb1ad8a3718.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00029</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Casa à venda em Araraquara-SP, Jardim Altos de Pinheiros I E II: 2 quartos, 2 vagas, 139,43 m² de área.</titulo>
+    <descricao />
+    <preco>230000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>JARDIM ALTOS DE PINHEIROS I E II</bairro>
+    <dormitorios>2</dormitorios>
+    <suites>0</suites>
+    <vagas>2</vagas>
+    <area_construida>139,43</area_construida>
+    <area_terreno>190</area_terreno>
+    <destaque>Oportunidade</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/03/7ecde738df8433089fb619e0f6190b47.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00030</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Imóvel em area comercial à venda em Araraquara-SP, no Santana: confira essa oportunidade única!</titulo>
+    <descricao />
+    <preco>350000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>VILA SANTANA</bairro>
+    <dormitorios>3</dormitorios>
+    <suites>0</suites>
+    <vagas>0</vagas>
+    <area_construida>267,10</area_construida>
+    <area_terreno>472</area_terreno>
+    <destaque>Oportunidade</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/08/0cec93327d0b440dfecebc605e6e2f48.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>AP00030</codigo>
+    <tipo>APARTAMENTO</tipo>
+    <titulo>Apartamento à venda no Centro de Araraquara-SP: 2 quartos, 1 sala, 1 banheiro, vaga de garagem e 50m² de área!</titulo>
+    <descricao />
+    <preco>135000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>CENTRO</bairro>
+    <dormitorios>2</dormitorios>
+    <suites>0</suites>
+    <vagas>1</vagas>
+    <area_construida>50</area_construida>
+    <area_terreno>0</area_terreno>
+    <destaque>Pronto para morar</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/03/fb3160c8b65ca113884f71a68f6c6a04.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00031</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Casa à venda em localização privilegiada de 2 quartos, 1 sala, 1 banheiro, 1 vaga de garagem, 50,52 m² de área.</titulo>
+    <descricao />
+    <preco>217000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>VILA NOSSA SENHORA APARECIDA</bairro>
+    <dormitorios>2</dormitorios>
+    <suites>0</suites>
+    <vagas>1</vagas>
+    <area_construida>50,52</area_construida>
+    <area_terreno>200</area_terreno>
+    <destaque>Oportunidade</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/03/527840a375fed2ec7d6a0b6c0baa7d3d.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00032</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Casa à venda em Araraquara-SP, Jardim Esplanada: 2 quartos, 1 sala, 1 banheiro, 2 vagas de garagem, 81,07 m².</titulo>
+    <descricao />
+    <preco>160000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>JARDIM ESPLANADA</bairro>
+    <dormitorios>2</dormitorios>
+    <suites>0</suites>
+    <vagas>2</vagas>
+    <area_construida>81,07</area_construida>
+    <area_terreno>215</area_terreno>
+    <destaque>Oportunidade</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/03/22438987e10a949a9f832d2e92cb6d54.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00033</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Imperdível oportunidade de casa à venda em Araraquara-SP, Jardim Pinheiros II! 2 quartos, 1 banheiro, 2 vagas de garagem!</titulo>
+    <descricao />
+    <preco>160000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>JARDIM PINHEIROS II</bairro>
+    <dormitorios>2</dormitorios>
+    <suites>0</suites>
+    <vagas>2</vagas>
+    <area_construida>75,65</area_construida>
+    <area_terreno>212,29</area_terreno>
+    <destaque>Oportunidade</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/03/71b7a40d7906485abce53825dc7924e1.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00034</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Área de lazer à venda em Araraquara-SP, Jardim Esmeralda: 1 quarto, 1 suíte, 2 banheiros, 75,58 m² de área! Aproveite!</titulo>
+    <descricao />
+    <preco>320000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>JARDIM ESMERALDA</bairro>
+    <dormitorios>1</dormitorios>
+    <suites>0</suites>
+    <vagas>0</vagas>
+    <area_construida>75,58</area_construida>
+    <area_terreno>200</area_terreno>
+    <destaque>Oportunidade</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/03/24f83296b9170e69d9b4e083f230a546.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00035</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Imperdível oportunidade de casa à venda em Araraquara-SP, Jardim Palmares: 3 quartos, 1 sala, 1 banheiro, 2 vagas de garagem, 134,25 m².</titulo>
+    <descricao />
+    <preco>180000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>JARDIM PALMARES</bairro>
+    <dormitorios>3</dormitorios>
+    <suites>0</suites>
+    <vagas>2</vagas>
+    <area_construida>134,25</area_construida>
+    <area_terreno>142,80</area_terreno>
+    <destaque>Oportunidade</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/03/33f192160d7f8f533bb43e208bf032d5.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>TE00005</codigo>
+    <tipo>TERRENO</tipo>
+    <titulo>Terreno à venda em Araraquara-SP, bairro Residencial Alamedas, 276,63 m² de área. Aproveite essa oportunidade!</titulo>
+    <descricao />
+    <preco>120000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>RESIDENCIAL ALAMEDAS</bairro>
+    <dormitorios>0</dormitorios>
+    <suites>0</suites>
+    <vagas>0</vagas>
+    <area_construida>0</area_construida>
+    <area_terreno>276,63</area_terreno>
+    <destaque>Para construir</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/03/a8acefc6eb2f243cf53ab83119d35f22.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>AP00031</codigo>
+    <tipo>APARTAMENTO</tipo>
+    <titulo>Apartamento à venda em Araraquara-SP, no bairro Solidariedade: 2 quartos, 1 banheiro, 1 vaga, 53,39 m² de área.</titulo>
+    <descricao />
+    <preco>190000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>SOLIDARIEDADE</bairro>
+    <dormitorios>2</dormitorios>
+    <suites>0</suites>
+    <vagas>1</vagas>
+    <area_construida>53,39</area_construida>
+    <area_terreno>0</area_terreno>
+    <destaque>Pronto para morar</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/03/986cfff81ab69d3145946e694715d6af.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00036</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Imperdível: Casa à venda em Araraquara-SP, Residencial Ravena. 2 quartos, 1 suíte, 2 salas, 2 vagas de garagem. Confira!</titulo>
+    <descricao />
+    <preco>370000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>RESIDENCIAL RAVENA</bairro>
+    <dormitorios>2</dormitorios>
+    <suites>1</suites>
+    <vagas>2</vagas>
+    <area_construida>69</area_construida>
+    <area_terreno>250</area_terreno>
+    <destaque>Oportunidade</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/03/ca94c39e9900510eff93f10661f457e0.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>AP00032</codigo>
+    <tipo>APARTAMENTO</tipo>
+    <titulo>Apartamento à venda em Araraquara-SP, Jardim dos Manacás: 2 quartos, 1 suíte, 2 salas, 2 vagas de garagem, 74,17 m². Venha conferir!</titulo>
+    <descricao />
+    <preco>540000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>JARDIM DOS MANACÁS</bairro>
+    <dormitorios>2</dormitorios>
+    <suites>1</suites>
+    <vagas>2</vagas>
+    <area_construida>75</area_construida>
+    <area_terreno>0</area_terreno>
+    <destaque>Pronto para morar</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/04/d3895c286d194bcb540ef0ce6d7e185c.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00037</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Imperdível! Casa à venda em Araraquara-SP, no Residencial Monte Carlo: 2 quartos, 1 suíte, 2 salas, 2 banheiros, 2 vagas, 64m².</titulo>
+    <descricao />
+    <preco>280000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>RESIDENCIAL MONTE CARLO</bairro>
+    <dormitorios>2</dormitorios>
+    <suites>1</suites>
+    <vagas>2</vagas>
+    <area_construida>64</area_construida>
+    <area_terreno>200</area_terreno>
+    <destaque>Oportunidade</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/04/1b8a113e39e57404208ce55d3ea3b2fb.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00038</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Imóvel de Alto Padrão com 3 Quartos e 2 Vagas de Garagem no Parque Laranjeiras, Araraquara-SP</titulo>
+    <descricao />
+    <preco>350000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>PARQUE LARANJEIRAS</bairro>
+    <dormitorios>3</dormitorios>
+    <suites>1</suites>
+    <vagas>2</vagas>
+    <area_construida>68</area_construida>
+    <area_terreno>155</area_terreno>
+    <destaque>Oportunidade</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/04/48f281f3157bcaae355cc6b5817a8f85.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00039</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Imperdível oportunidade: Casa à venda em Araraquara-SP, Vila Yamada! 3 quartos, 1 suíte, 2 salas, 2 vagas, 147m². Venha conferir!</titulo>
+    <descricao />
+    <preco>460000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>VILA YAMADA</bairro>
+    <dormitorios>3</dormitorios>
+    <suites>1</suites>
+    <vagas>2</vagas>
+    <area_construida>147</area_construida>
+    <area_terreno>270</area_terreno>
+    <destaque>Oportunidade</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/04/65e9b090c520b50ea224be29cd73e94e.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00040</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Imperdível oportunidade: Casa à venda em Araraquara-SP, na Vila Harmonia, 3 quartos, 1 suíte, 2 salas, 3 vagas, 184,97m².</titulo>
+    <descricao />
+    <preco>430000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>Vila Harmonia</bairro>
+    <dormitorios>3</dormitorios>
+    <suites>1</suites>
+    <vagas>3</vagas>
+    <area_construida>184,97</area_construida>
+    <area_terreno>360</area_terreno>
+    <destaque>Oportunidade</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/04/fcce955aba2435422786f194055a30bd.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00041</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Imperdível Casa à Venda em Araraquara-SP, Altos do Jaraguá  4 Quartos, 2 Suítes, 2 Salas, 4 Banheiros, 2 Vagas, 233,16m²</titulo>
+    <descricao />
+    <preco>1400000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>ALTOS DO JARAGUÁ</bairro>
+    <dormitorios>4</dormitorios>
+    <suites>2</suites>
+    <vagas>2</vagas>
+    <area_construida>233,16</area_construida>
+    <area_terreno>428,75</area_terreno>
+    <destaque>Alto padrão</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/04/424e40fb79bd7e4fe5f5c7ef12d46d15.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00042</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Oportunidade única: Casa à venda em Araraquara-SP, Jardim Califórnia, 2 quartos, 1 banheiro, 102,96 m². Aproveite!</titulo>
+    <descricao />
+    <preco>370000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>Jardim Morumbi</bairro>
+    <dormitorios>2</dormitorios>
+    <suites>0</suites>
+    <vagas>0</vagas>
+    <area_construida>102,96</area_construida>
+    <area_terreno>109,50</area_terreno>
+    <destaque>Oportunidade</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/04/14267d4be6d9454f0e9bda6b9b8da50d.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>TE00006</codigo>
+    <tipo>TERRENO</tipo>
+    <titulo>Terreno à venda em Araraquara-SP, Altos da Boa Vista: 250m² de oportunidade!</titulo>
+    <descricao />
+    <preco>115000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>Altos da Boa VIsta</bairro>
+    <dormitorios>0</dormitorios>
+    <suites>0</suites>
+    <vagas>0</vagas>
+    <area_construida>0</area_construida>
+    <area_terreno>250</area_terreno>
+    <destaque>Para construir</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/04/9d040639ba98fd59b31026dbc504545e.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>TE00007</codigo>
+    <tipo>TERRENO</tipo>
+    <titulo>Terreno à venda em Araraquara-SP, Altos da Boa Vista, 253m² - Imperdível oportunidade!</titulo>
+    <descricao />
+    <preco>115000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>Altos da Boa Vista</bairro>
+    <dormitorios>0</dormitorios>
+    <suites>0</suites>
+    <vagas>0</vagas>
+    <area_construida>0</area_construida>
+    <area_terreno>253</area_terreno>
+    <destaque>Para construir</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/04/e99ad896be3c7304581d1a468a8ad312.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00043</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Imperdível: Casa à venda em Araraquara-SP, no Condomínio Altos da Boa Vista, com 3 quartos, 1 suíte e 2 vagas de garagem!</titulo>
+    <descricao />
+    <preco>500000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>Condomínio Altos da Boa Vista</bairro>
+    <dormitorios>3</dormitorios>
+    <suites>1</suites>
+    <vagas>2</vagas>
+    <area_construida>121</area_construida>
+    <area_terreno>230</area_terreno>
+    <destaque>Oportunidade</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/04/b92613bd1383950b5be0cc5b4781f267.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>TE00008</codigo>
+    <tipo>TERRENO</tipo>
+    <titulo>Terreno à venda em Araraquara-SP, no Condomínio Altos da Boa Vista, com 250,00 m² de área</titulo>
+    <descricao />
+    <preco>123000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>Condomínio Altos da Boa Vista</bairro>
+    <dormitorios>0</dormitorios>
+    <suites>0</suites>
+    <vagas>0</vagas>
+    <area_construida>0</area_construida>
+    <area_terreno>250</area_terreno>
+    <destaque>Para construir</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/04/0160afb62c2779e2d3457920e042e873.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>TE00009</codigo>
+    <tipo>TERRENO</tipo>
+    <titulo>Terreno à venda em Araraquara-SP, no Jardim Maria Luiza II, com 250m² de área!</titulo>
+    <descricao />
+    <preco>120000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>Condomínio Altos da Boa Vista</bairro>
+    <dormitorios>0</dormitorios>
+    <suites>0</suites>
+    <vagas>0</vagas>
+    <area_construida>0</area_construida>
+    <area_terreno>250</area_terreno>
+    <destaque>Para construir</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/04/712af63e7b629cdd41cdd0125826db2d.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>TE00010</codigo>
+    <tipo>TERRENO</tipo>
+    <titulo>Oportunidade única: Terreno à venda em Araraquara-SP, bairro Condomínio Altos da Boa Vista, 230,00 m² de área.</titulo>
+    <descricao />
+    <preco>128000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>Condomínio Altos da Boa Vista</bairro>
+    <dormitorios>0</dormitorios>
+    <suites>0</suites>
+    <vagas>0</vagas>
+    <area_construida>0</area_construida>
+    <area_terreno>230</area_terreno>
+    <destaque>Para construir</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/04/971f006e690dc6cb132fbb7fc4d09591.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>TE00011</codigo>
+    <tipo>TERRENO</tipo>
+    <titulo>Terreno à venda em Araraquara-SP, Condomínio Alto da Boa Vista - 253,00m² de área!</titulo>
+    <descricao />
+    <preco>128000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>Condomínio Alto da Boa Vista</bairro>
+    <dormitorios>0</dormitorios>
+    <suites>0</suites>
+    <vagas>0</vagas>
+    <area_construida>0</area_construida>
+    <area_terreno>253</area_terreno>
+    <destaque>Para construir</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/04/0de8e7bb6cdca05654a8ca5efccd116d.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>TE00012</codigo>
+    <tipo>TERRENO</tipo>
+    <titulo>Terreno à venda em Araraquara-SP, bairro Jardim Morumbi, 524,70m² de área!</titulo>
+    <descricao />
+    <preco>175000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>JARDIM MORUMBI</bairro>
+    <dormitorios>0</dormitorios>
+    <suites>0</suites>
+    <vagas>0</vagas>
+    <area_construida>0</area_construida>
+    <area_terreno>524,70</area_terreno>
+    <destaque>Para construir</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/04/6493b7d0c7ffb0397f9224d88dc7bb45.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>TE00013</codigo>
+    <tipo>TERRENO</tipo>
+    <titulo>Terreno à venda em Araraquara-SP, Campos Ville: 515,00 m² de pura oportunidade!</titulo>
+    <descricao />
+    <preco>150000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>CAMPOS VILLE</bairro>
+    <dormitorios>0</dormitorios>
+    <suites>0</suites>
+    <vagas>0</vagas>
+    <area_construida>0</area_construida>
+    <area_terreno>515</area_terreno>
+    <destaque>Para construir</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/04/d9535556d4c6e8869139744e40134bbd.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>TE00014</codigo>
+    <tipo>TERRENO</tipo>
+    <titulo>Terreno à venda em Araraquara-SP, Jardim Roberto Selmi Dei - 295,12m² de área!</titulo>
+    <descricao />
+    <preco>150000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>JARDIM ROBERTO SELMI DEI</bairro>
+    <dormitorios>0</dormitorios>
+    <suites>0</suites>
+    <vagas>0</vagas>
+    <area_construida>0</area_construida>
+    <area_terreno>295,12</area_terreno>
+    <destaque>Para construir</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/04/c8c6daba7b9346a967595776a9bd7fa9.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>AP00033</codigo>
+    <tipo>APARTAMENTO</tipo>
+    <titulo>Apartamento à venda no Jardim Botânico, Araraquara-SP: 2 quartos, 1 sala, 1 banheiro, 1 vaga, 55,56m². Imperdível!</titulo>
+    <descricao />
+    <preco>250000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>JARDIM BOTÂNICO</bairro>
+    <dormitorios>2</dormitorios>
+    <suites>0</suites>
+    <vagas>1</vagas>
+    <area_construida>55,56</area_construida>
+    <area_terreno>0</area_terreno>
+    <destaque>Pronto para morar</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/04/fa40cac46deeb05bcb694a867217ea1f.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>AP00034</codigo>
+    <tipo>APARTAMENTO</tipo>
+    <titulo>Apartamento à venda no Jardim Morumbi, Araraquara-SP: 3 quartos, 1 suíte, 2 banheiros, 2 vagas de garagem, 76m² de área.</titulo>
+    <descricao />
+    <preco>590000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>JARDIM MORUMBI</bairro>
+    <dormitorios>3</dormitorios>
+    <suites>1</suites>
+    <vagas>2</vagas>
+    <area_construida>76</area_construida>
+    <area_terreno>0</area_terreno>
+    <destaque>Pronto para morar</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/04/e93318fdc711d1c45158f109cd51b603.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00044</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Impecável casa à venda em Araraquara-SP, Vila Xavier: 3 quartos, 1 suíte, 2 salas, 4 banheiros, 4 vagas, 241,40 m²</titulo>
+    <descricao />
+    <preco>600000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>VILA XAVIER (VILA XAVIER)</bairro>
+    <dormitorios>3</dormitorios>
+    <suites>1</suites>
+    <vagas>4</vagas>
+    <area_construida>241,40</area_construida>
+    <area_terreno>297</area_terreno>
+    <destaque>Oportunidade</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/04/634b427fe8e6a58910fae539929cb776.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>TE00015</codigo>
+    <tipo>TERRENO</tipo>
+    <titulo>Terreno de 200m² no Condomínio Pq Alvorada em Araraquara-SP: a oportunidade que você estava esperando!</titulo>
+    <descricao />
+    <preco>135000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>Condomínio Pq Alvorada</bairro>
+    <dormitorios>0</dormitorios>
+    <suites>0</suites>
+    <vagas>0</vagas>
+    <area_construida>0</area_construida>
+    <area_terreno>200</area_terreno>
+    <destaque>Para construir</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/05/640167894d5728a136d35842c7fa2193.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00045</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Imóvel de alto padrão à venda ou locação em Araraquara-SP, Residencial Damha: 3 quartos, 2 suítes, 2 salas, 2 vagas, 240m².</titulo>
+    <descricao />
+    <preco>1590000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>RESIDENCIAL DAMHA</bairro>
+    <dormitorios>3</dormitorios>
+    <suites>2</suites>
+    <vagas>2</vagas>
+    <area_construida>240</area_construida>
+    <area_terreno>277</area_terreno>
+    <destaque>Alto padrão</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/05/66e6633624cb3a64faf8039ab1989a78.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>TE00016</codigo>
+    <tipo>TERRENO</tipo>
+    <titulo>Terreno à venda em Araraquara-SP, Residencial Ravena, 251,05 m² de área!</titulo>
+    <descricao />
+    <preco>100000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>Residencial Ravena</bairro>
+    <dormitorios>0</dormitorios>
+    <suites>0</suites>
+    <vagas>0</vagas>
+    <area_construida>0</area_construida>
+    <area_terreno>251,05</area_terreno>
+    <destaque>Para construir</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/05/b7df33dd77dc1c834eaba4d14691709c.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>TE00017</codigo>
+    <tipo>TERRENO</tipo>
+    <titulo>Terreno à venda em Araraquara-SP, bairro Residencial Ravena, 250m² de área</titulo>
+    <descricao />
+    <preco>100000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>Residencial Ravena</bairro>
+    <dormitorios>0</dormitorios>
+    <suites>0</suites>
+    <vagas>0</vagas>
+    <area_construida>0</area_construida>
+    <area_terreno>250</area_terreno>
+    <destaque>Para construir</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/05/d6ea06d2a0a8f79b42ac890b2f6ce110.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>TE00018</codigo>
+    <tipo>TERRENO</tipo>
+    <titulo>Terreno à venda em Araraquara-SP, Residencial Ravena, 250m² de área!</titulo>
+    <descricao />
+    <preco>115000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>Residencial Ravena</bairro>
+    <dormitorios>0</dormitorios>
+    <suites>0</suites>
+    <vagas>0</vagas>
+    <area_construida>0</area_construida>
+    <area_terreno>250</area_terreno>
+    <destaque>Para construir</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/05/3ea8718e1745f1c9f7909bb3671e3ecd.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00046</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Imperdível oportunidade: Casa à venda em Araraquara-SP, bairro Santana, 4 quartos, 3 suítes, 2 salas, 2 vagas, 361,60m².</titulo>
+    <descricao />
+    <preco>950000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>Santana</bairro>
+    <dormitorios>4</dormitorios>
+    <suites>3</suites>
+    <vagas>2</vagas>
+    <area_construida>361,60</area_construida>
+    <area_terreno>682</area_terreno>
+    <destaque>Oportunidade</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/05/b7cab08c0aa490747229858b56a19abb.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00047</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Imperdível oportunidade: Casa à venda em Araraquara-SP no Jardim Imperador, 3 quartos, 1 suíte, 1 sala, 2 vagas de garagem, 247,40m².</titulo>
+    <descricao />
+    <preco>650000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>JARDIM IMPERADOR</bairro>
+    <dormitorios>3</dormitorios>
+    <suites>1</suites>
+    <vagas>2</vagas>
+    <area_construida>247,40</area_construida>
+    <area_terreno>360</area_terreno>
+    <destaque>Oportunidade</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/05/88c0336cb3c79c842281734b4234f8ae.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00048</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Imperdível: Casa à venda em Araraquara-SP, 3 quartos, 3 suítes, 2 salas, 5 banheiros, 2 vagas, 210,75m² - Condomínio Quinta das Tipuanas.</titulo>
+    <descricao />
+    <preco>1600000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>CONDOMÍNIO QUINTA DAS TIPUANAS</bairro>
+    <dormitorios>3</dormitorios>
+    <suites>3</suites>
+    <vagas>2</vagas>
+    <area_construida>210,75</area_construida>
+    <area_terreno>336</area_terreno>
+    <destaque>Alto padrão</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/05/ac1b1b1897f5e5f6fb37cafab7dc7108.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>TE00019</codigo>
+    <tipo>TERRENO</tipo>
+    <titulo>Terreno Comercial à Venda em Araraquara-SP, Jardim Nova Araraquara  374m² de Área - Oportunidade Imperdível!</titulo>
+    <descricao />
+    <preco>169000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>JARDIM NOVA ARARAQUARA</bairro>
+    <dormitorios>0</dormitorios>
+    <suites>0</suites>
+    <vagas>0</vagas>
+    <area_construida>0</area_construida>
+    <area_terreno>374</area_terreno>
+    <destaque>Para construir</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/05/79440e4b74048021251ec789b0d07714.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00049</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Imperdível Casa à Venda em Araraquara-SP, Bairro Santana: 2 Quartos, 3 Salas, 2 Banheiros, 3 Vagas, 185,40 m²!</titulo>
+    <descricao />
+    <preco>350000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>Santana</bairro>
+    <dormitorios>2</dormitorios>
+    <suites>0</suites>
+    <vagas>3</vagas>
+    <area_construida>185,40</area_construida>
+    <area_terreno>420</area_terreno>
+    <destaque>Oportunidade</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/05/be7b5a393ba614a8c5fb88b00b9180d7.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00050</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Casa à venda em Araraquara-SP, Parque Residencial Vale do Sol: 2 quartos, 2 salas, 2 banheiros, 2 vagas, 186,69m².</titulo>
+    <descricao />
+    <preco>330000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>PARQUE RESIDENCIAL VALE DO SOL</bairro>
+    <dormitorios>2</dormitorios>
+    <suites>0</suites>
+    <vagas>2</vagas>
+    <area_construida>186,69</area_construida>
+    <area_terreno>250</area_terreno>
+    <destaque>Oportunidade</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/05/591ee22a596a1292bcfcf8614bf0624a.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00051</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Imóvel Espetacular à Venda em Araraquara-SP: Casa de Luxo no Condomínio Buona Vita, 3 Suítes e 4 Vagas de Garagem.</titulo>
+    <descricao />
+    <preco>1700000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>CONDOMÍNIO BUONA VITA</bairro>
+    <dormitorios>3</dormitorios>
+    <suites>3</suites>
+    <vagas>4</vagas>
+    <area_construida>198</area_construida>
+    <area_terreno>362,35</area_terreno>
+    <destaque>Alto padrão</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/05/f9210a3709b662c9b211bf86e6af8168.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00052</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Imperdível! Casa à venda em Araraquara-SP, bairro Santa Angelina, 3 quartos, 1 sala, 3 vagas de garagem, 160,07 m² de área. Confira!</titulo>
+    <descricao />
+    <preco>420000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>Santa Angelina</bairro>
+    <dormitorios>3</dormitorios>
+    <suites>0</suites>
+    <vagas>3</vagas>
+    <area_construida>160,07</area_construida>
+    <area_terreno>275,25</area_terreno>
+    <destaque>Oportunidade</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/05/e31dca22ddeb0bb96d779473112be721.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00053</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Imperdível! Casa à venda em Araraquara-SP, Jardim Padre Anchieta: 2 quartos, 1 suíte, 1 sala, 2 vagas, 136,76 m².</titulo>
+    <descricao />
+    <preco>395000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>JARDIM PADRE ANCHIETA</bairro>
+    <dormitorios>2</dormitorios>
+    <suites>1</suites>
+    <vagas>2</vagas>
+    <area_construida>136,76</area_construida>
+    <area_terreno>154,36</area_terreno>
+    <destaque>Oportunidade</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/05/9a9899c5240111dc3cb16711bdec559d.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>TE00020</codigo>
+    <tipo>TERRENO</tipo>
+    <titulo>Terreno à venda em Araraquara-SP, Parque Gramado II, 200m² de área - Oportunidade Única!</titulo>
+    <descricao />
+    <preco>105000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>PARQUE GRAMADO II</bairro>
+    <dormitorios>0</dormitorios>
+    <suites>0</suites>
+    <vagas>0</vagas>
+    <area_construida>0</area_construida>
+    <area_terreno>200</area_terreno>
+    <destaque>Para construir</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/05/621ecb8c7a4f4a7c4f936593ea955ea6.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00054</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Imperdível oportunidade: casa à venda em Araraquara-SP, Residencial Cambuy, 3 quartos, 1 suíte, 4 vagas de garagem, 138,32 m² de área.</titulo>
+    <descricao />
+    <preco>590000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>RESIDENCIAL CAMBUY</bairro>
+    <dormitorios>3</dormitorios>
+    <suites>1</suites>
+    <vagas>4</vagas>
+    <area_construida>138,32</area_construida>
+    <area_terreno>275</area_terreno>
+    <destaque>Oportunidade</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/05/14b7b943529f6f283596278293266ebf.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00055</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Imperdível Casa à Venda em Araraquara-SP, Jardim Residencial Elvio Lupo: 2 Quartos, 1 Sala, 1 Banheiro, 2 Vagas de Garagem, 134,27 m².</titulo>
+    <descricao />
+    <preco>265000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>JARDIM RESIDENCIAL ELVIO LUPO</bairro>
+    <dormitorios>2</dormitorios>
+    <suites>0</suites>
+    <vagas>2</vagas>
+    <area_construida>134,27</area_construida>
+    <area_terreno>215</area_terreno>
+    <destaque>Oportunidade</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/06/abfb99f043cc93e0788e6689f12db84d.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>AP00035</codigo>
+    <tipo>APARTAMENTO</tipo>
+    <titulo>Imperdível Apartamento à Venda em Araraquara-SP: 2 Quartos, 1 Vaga de Garagem no Bairro Solidariedade - Quitandinha</titulo>
+    <descricao />
+    <preco>161000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>SOLIDARIEDADE - Quitandinha</bairro>
+    <dormitorios>2</dormitorios>
+    <suites>0</suites>
+    <vagas>1</vagas>
+    <area_construida>53,39</area_construida>
+    <area_terreno>0</area_terreno>
+    <destaque>Pronto para morar</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/06/9830fe9268dc1b8569045f1dc5c41ce4.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00056</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Casa à venda em Araraquara-SP, bairro Cecap I: 2 quartos, 1 sala, 1 banheiro, 2 vagas de garagem, 92,68m² de área.</titulo>
+    <descricao />
+    <preco>135000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>Cecap I</bairro>
+    <dormitorios>2</dormitorios>
+    <suites>0</suites>
+    <vagas>2</vagas>
+    <area_construida>92,68</area_construida>
+    <area_terreno>202</area_terreno>
+    <destaque>Oportunidade</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/06/6f05b6f96cff0a711989e6855b4c9722.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00057</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Imperdível oportunidade de adquirir casa na Vila Santana em Araraquara-SP: 2 quartos, 1 sala, 1 banheiro e 99,73 m² de área.</titulo>
+    <descricao />
+    <preco>185000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>VILA SANTANA</bairro>
+    <dormitorios>2</dormitorios>
+    <suites>0</suites>
+    <vagas>0</vagas>
+    <area_construida>99,73</area_construida>
+    <area_terreno>0</area_terreno>
+    <destaque>Oportunidade</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/06/16cd32ef371f9a1cbc63717975ac1d6a.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>AP00036</codigo>
+    <tipo>APARTAMENTO</tipo>
+    <titulo>Apartamento de 1 quarto com suíte e vaga na Vila Sedenho, Araraquara-SP: 61,07 m² de conforto e praticidade!</titulo>
+    <descricao />
+    <preco>125000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>VILA SEDENHO</bairro>
+    <dormitorios>1</dormitorios>
+    <suites>1</suites>
+    <vagas>1</vagas>
+    <area_construida>61,07</area_construida>
+    <area_terreno>27</area_terreno>
+    <destaque>Pronto para morar</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/06/fa4729de9e1bb59a085a0fe4647badb8.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>AP00037</codigo>
+    <tipo>APARTAMENTO</tipo>
+    <titulo>Imperdível - Apartamento à venda na Vila Furlan, Araraquara-SP: 2 quartos, 1 suíte, 1 sala, 2 banheiros, 1 vaga, 126,35m²!</titulo>
+    <descricao />
+    <preco>320000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>VILA FURLAN</bairro>
+    <dormitorios>2</dormitorios>
+    <suites>1</suites>
+    <vagas>1</vagas>
+    <area_construida>126,35</area_construida>
+    <area_terreno>27,43</area_terreno>
+    <destaque>Pronto para morar</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/06/a686a442447a934374de2a3ff2f97fe0.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>AP00038</codigo>
+    <tipo>APARTAMENTO</tipo>
+    <titulo>Apartamento à venda no Centro de Araraquara-SP: 3 quartos, 1 suíte, 2 salas, 1 vaga de garagem, 59,45m² de área.</titulo>
+    <descricao />
+    <preco>160000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>São Geraldo</bairro>
+    <dormitorios>3</dormitorios>
+    <suites>1</suites>
+    <vagas>1</vagas>
+    <area_construida>59,45</area_construida>
+    <area_terreno>69,38</area_terreno>
+    <destaque>Pronto para morar</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/06/10e7e42bdc14af20e55c2af1f31115c5.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>AP00039</codigo>
+    <tipo>APARTAMENTO</tipo>
+    <titulo>Apartamento à venda em Araraquara-SP, Parque Laranjeiras: 2 quartos, 1 sala, 1 banheiro, 1 vaga, 57,81m²</titulo>
+    <descricao />
+    <preco>120000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>PARQUE LARANJEIRAS</bairro>
+    <dormitorios>2</dormitorios>
+    <suites>0</suites>
+    <vagas>1</vagas>
+    <area_construida>57,81</area_construida>
+    <area_terreno>0</area_terreno>
+    <destaque>Pronto para morar</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/06/31fc05c1197e4524353a398a32060d78.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>TE00021</codigo>
+    <tipo>TERRENO</tipo>
+    <titulo>Terreno à venda em Araraquara-SP, Jardim São Francisco  250m² de área para construção</titulo>
+    <descricao />
+    <preco>140000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>Jardim São Francisco</bairro>
+    <dormitorios>0</dormitorios>
+    <suites>0</suites>
+    <vagas>0</vagas>
+    <area_construida>0</area_construida>
+    <area_terreno>250</area_terreno>
+    <destaque>Para construir</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/07/319a98c5468db8bf187d3041634db1bd.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00058</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Imperdível Casa à Venda em Araraquara-SP, Jardim Imperador: 3 Quartos, 1 Suíte, 1 Sala, 2 Vagas, 231,38m²!</titulo>
+    <descricao />
+    <preco>520000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>JARDIM IMPERADOR</bairro>
+    <dormitorios>3</dormitorios>
+    <suites>1</suites>
+    <vagas>2</vagas>
+    <area_construida>231,38</area_construida>
+    <area_terreno>360</area_terreno>
+    <destaque>Oportunidade</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/07/e47eeda51a9ca8d51b1b32dbe437600e.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00059</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Linda Casa à Venda em Araraquara-SP, no Jardim do Carmo! 3 Quartos, 1 Sala, 2 Banheiros, 8 Vagas de Garagem - 296,63 m²!</titulo>
+    <descricao />
+    <preco>599000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>JARDIM DO CARMO</bairro>
+    <dormitorios>3</dormitorios>
+    <suites>0</suites>
+    <vagas>8</vagas>
+    <area_construida>296,63</area_construida>
+    <area_terreno>533</area_terreno>
+    <destaque>Oportunidade</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/07/19a945649b6f4d61dc733ef46e8207f0.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00060</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Imperdível! Casa à venda em Araraquara-SP, São José: 2 quartos, 2 suítes, 1 sala, 5 vagas, 262,38 m² de área. Confira já!</titulo>
+    <descricao />
+    <preco>589000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>São José</bairro>
+    <dormitorios>2</dormitorios>
+    <suites>2</suites>
+    <vagas>5</vagas>
+    <area_construida>262,38</area_construida>
+    <area_terreno>501</area_terreno>
+    <destaque>Oportunidade</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/07/7ffb509756ab7f0178c6cef24164214e.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00061</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Casa à venda em Araraquara-SP, Parque do Carmo: 3 quartos, 2 banheiros, 1 vaga, 97,80m² de área. Venha conferir!</titulo>
+    <descricao />
+    <preco>229000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>Parque do Carmo</bairro>
+    <dormitorios>3</dormitorios>
+    <suites>0</suites>
+    <vagas>1</vagas>
+    <area_construida>97,80</area_construida>
+    <area_terreno>168</area_terreno>
+    <destaque>Oportunidade</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/07/643c5d7ea0ac4816ccdfef379c092b87.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>AP00040</codigo>
+    <tipo>APARTAMENTO</tipo>
+    <titulo>Apartamento à venda na Vila Santana em Araraquara-SP com 2 quartos, 1 sala, garagem e 57m² de área. Venha conferir!</titulo>
+    <descricao />
+    <preco>225000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>VILA SANTANA</bairro>
+    <dormitorios>2</dormitorios>
+    <suites>0</suites>
+    <vagas>1</vagas>
+    <area_construida>57</area_construida>
+    <area_terreno>57</area_terreno>
+    <destaque>Pronto para morar</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/07/5ef3f110dcbdff53aba1c53783d5e6b9.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>AP00041</codigo>
+    <tipo>APARTAMENTO</tipo>
+    <titulo>Apartamento de 2 quartos no Parque Laranjeiras, Araraquara-SP: 57m², sala, banheiro e vaga de garagem!</titulo>
+    <descricao />
+    <preco>130000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>PARQUE LARANJEIRAS</bairro>
+    <dormitorios>2</dormitorios>
+    <suites>0</suites>
+    <vagas>1</vagas>
+    <area_construida>57</area_construida>
+    <area_terreno>57</area_terreno>
+    <destaque>Pronto para morar</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/07/fe79d842c5178531b3e36585d46c817d.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00062</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Imperdível oportunidade: Casa à venda em Araraquara-SP, Residencial Monte Carlo, 2 quartos, 1 suíte, 1 sala, 2 banheiros, 2 vagas, 100m²!</titulo>
+    <descricao />
+    <preco>440000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>RESIDENCIAL MONTE CARLO</bairro>
+    <dormitorios>2</dormitorios>
+    <suites>1</suites>
+    <vagas>2</vagas>
+    <area_construida>100</area_construida>
+    <area_terreno>200</area_terreno>
+    <destaque>Oportunidade</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/08/53e9113f55d7f81968e66b1990d6fa78.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00063</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Casa à venda na Vila Xavier, Araraquara-SP: 1 quarto, 1 sala, 2 banheiros, 1 vaga de garagem, 130m² de área.</titulo>
+    <descricao />
+    <preco>280000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>VILA XAVIER (VILA XAVIER)</bairro>
+    <dormitorios>1</dormitorios>
+    <suites>0</suites>
+    <vagas>1</vagas>
+    <area_construida>130</area_construida>
+    <area_terreno>160</area_terreno>
+    <destaque>Oportunidade</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/08/6cf1f5c336b33dde85ec67c3d42a3d98.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00064</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Casa à venda em Araraquara-SP, Vila Nossa Senhora do Carmo: 1 quarto, 1 sala, 1 banheiro, 3 vagas de garagem, 50 m² de área.</titulo>
+    <descricao />
+    <preco>480000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>VILA NOSSA SENHORA DO CARMO</bairro>
+    <dormitorios>1</dormitorios>
+    <suites>0</suites>
+    <vagas>3</vagas>
+    <area_construida>50</area_construida>
+    <area_terreno>560</area_terreno>
+    <destaque>Oportunidade</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/08/055c524e792bdb60400eb6797ec1080c.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>TE00022</codigo>
+    <tipo>TERRENO</tipo>
+    <titulo>Terreno à venda na Vila Furlan, Araraquara-SP: 250,00 m² de área para construir o seu sonho!</titulo>
+    <descricao />
+    <preco>180000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>VILA FURLAN - Pe Anchieta</bairro>
+    <dormitorios>0</dormitorios>
+    <suites>0</suites>
+    <vagas>0</vagas>
+    <area_construida>0</area_construida>
+    <area_terreno>250</area_terreno>
+    <destaque>Para construir</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/08/2828f437a699776242f9d6c608f34254.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>AP00042</codigo>
+    <tipo>APARTAMENTO</tipo>
+    <titulo>Apartamento à venda em Araraquara-SP, Parque Laranjeiras: 2 quartos, 1 banheiro, 1 vaga de garagem, 57m² de área!</titulo>
+    <descricao />
+    <preco>150000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>PARQUE LARANJEIRAS</bairro>
+    <dormitorios>2</dormitorios>
+    <suites>0</suites>
+    <vagas>1</vagas>
+    <area_construida>57</area_construida>
+    <area_terreno>57</area_terreno>
+    <destaque>Pronto para morar</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/08/08eebee943de27dbbfff6dcf6be408a1.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00065</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Casa à venda em Araraquara-SP, Jardim Maria Luiza IV: 2 quartos, 1 suíte, 1 sala, 3 banheiros, 2 vagas, 113,48 m².</titulo>
+    <descricao />
+    <preco>190000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>JARDIM MARIA LUIZA IV</bairro>
+    <dormitorios>2</dormitorios>
+    <suites>1</suites>
+    <vagas>2</vagas>
+    <area_construida>113,48</area_construida>
+    <area_terreno>187,50</area_terreno>
+    <destaque>Oportunidade</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/08/cc4711f865bbe42f4f5af4812f5f94ac.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00066</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Imóvel de 2 quartos com suíte e 8 vagas de garagem no Parque Residencial Vale do Sol, Araraquara-SP: conheça essa oportunidade!</titulo>
+    <descricao />
+    <preco>280000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>PARQUE RESIDENCIAL VALE DO SOL</bairro>
+    <dormitorios>2</dormitorios>
+    <suites>1</suites>
+    <vagas>8</vagas>
+    <area_construida>80,70</area_construida>
+    <area_terreno>255</area_terreno>
+    <destaque>Oportunidade</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/08/ec2ed384addb479a996e3ef733891ceb.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00067</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Casa de luxo à venda em Araraquara-SP, Condomínio Portal das Tipuanas: 3 quartos, 3 suites, 2 salas, 4 vagas, 194m².</titulo>
+    <descricao />
+    <preco>1100000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>CONDOMÍNIO PORTAL DAS TIPUANAS</bairro>
+    <dormitorios>3</dormitorios>
+    <suites>3</suites>
+    <vagas>4</vagas>
+    <area_construida>194</area_construida>
+    <area_terreno>336</area_terreno>
+    <destaque>Alto padrão</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/08/c0310d5a3041b3ed999772557f035a9a.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00068</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Casa à venda em Araraquara-SP, Jardim Santa Júlia (Vila Xavier): 2 quartos, 3 vagas, 48m² - Imperdível!</titulo>
+    <descricao />
+    <preco>250000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>JARDIM SANTA JÚLIA (VILA XAVIER)</bairro>
+    <dormitorios>2</dormitorios>
+    <suites>0</suites>
+    <vagas>3</vagas>
+    <area_construida>48</area_construida>
+    <area_terreno>187</area_terreno>
+    <destaque>Oportunidade</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/08/d45944dbcb536da69c02d29119e6fa19.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00069</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Residência de Luxo à Venda em Araraquara-SP, Bairro Residencial Village Damha: 3 Quartos, 3 Suítes, 2 Salas, 4 Vagas, 160m².</titulo>
+    <descricao />
+    <preco>850000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>RESIDENCIAL VILLAGE DAMHA</bairro>
+    <dormitorios>3</dormitorios>
+    <suites>3</suites>
+    <vagas>4</vagas>
+    <area_construida>160</area_construida>
+    <area_terreno>275</area_terreno>
+    <destaque>Oportunidade</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/08/fea7d2edc6255aeb499be1d1e32ad98a.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00070</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Espetacular Casa à Venda em Araraquara-SP, Jardim Botânico: 3 Quartos, 2 Salas, 2 Vagas de Garagem, 202,17 m² de Área.</titulo>
+    <descricao />
+    <preco>600000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>JARDIM BOTÂNICO</bairro>
+    <dormitorios>3</dormitorios>
+    <suites>0</suites>
+    <vagas>2</vagas>
+    <area_construida>202,17</area_construida>
+    <area_terreno>382</area_terreno>
+    <destaque>Oportunidade</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/08/5ae285c0da7a38a9ae2d590afa8d2c1d.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>AP00043</codigo>
+    <tipo>APARTAMENTO</tipo>
+    <titulo>Apartamento à venda em Araraquara-SP, Jardim Universal  2 quartos, 1 sala, 1 vaga de garagem  49,91m² de área</titulo>
+    <descricao />
+    <preco>169000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>JARDIM UNIVERSAL</bairro>
+    <dormitorios>2</dormitorios>
+    <suites>0</suites>
+    <vagas>1</vagas>
+    <area_construida>49,91</area_construida>
+    <area_terreno>55,46</area_terreno>
+    <destaque>Pronto para morar</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/08/ced3cd9020c96f9705321cdac83f4696.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00071</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Oportunidade imperdível: Casa à venda em Américo Brasiliense-SP, Jardim Ouro Verde! 2 quartos, 1 vaga, 50m². Confira!</titulo>
+    <descricao />
+    <preco>200000</preco>
+    <cidade>Américo Brasiliense</cidade>
+    <bairro>Jardim Ouro Verde</bairro>
+    <dormitorios>2</dormitorios>
+    <suites>0</suites>
+    <vagas>1</vagas>
+    <area_construida>50</area_construida>
+    <area_terreno>160</area_terreno>
+    <destaque>Oportunidade</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/09/600bb13ebee607fe402543b2866fea01.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>AP00044</codigo>
+    <tipo>APARTAMENTO</tipo>
+    <titulo>Apartamento à venda no Centro de Araraquara-SP: 2 quartos, 2 suítes, 2 salas, 3 banheiros, 2 vagas, 96m². Imperdível!</titulo>
+    <descricao />
+    <preco>870000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>CENTRO</bairro>
+    <dormitorios>2</dormitorios>
+    <suites>2</suites>
+    <vagas>2</vagas>
+    <area_construida>96</area_construida>
+    <area_terreno>96</area_terreno>
+    <destaque>Pronto para morar</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/09/9b74dcd52238880be541a0824af16108.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00072</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Imperdível oportunidade! Casa à venda em Araraquara-SP, Vila Suconasa, 3 quartos, 1 suíte, 3 salas, 3 banheiros, 4 vagas, 169,98 m².</titulo>
+    <descricao />
+    <preco>650000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>VILA SUCONASA</bairro>
+    <dormitorios>3</dormitorios>
+    <suites>1</suites>
+    <vagas>4</vagas>
+    <area_construida>169,98</area_construida>
+    <area_terreno>351</area_terreno>
+    <destaque>Oportunidade</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/09/4cac732a841a26e945c8c490162bd26b.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>AP00045</codigo>
+    <tipo>APARTAMENTO</tipo>
+    <titulo>Apartamento à venda em Araraquara-SP, Jardim do Carmo: 3 quartos, 1 suíte, 3 banheiros, 2 vagas, 102m². Aproveite!</titulo>
+    <descricao />
+    <preco>710000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>JARDIM DO CARMO</bairro>
+    <dormitorios>3</dormitorios>
+    <suites>1</suites>
+    <vagas>2</vagas>
+    <area_construida>102</area_construida>
+    <area_terreno>189,71</area_terreno>
+    <destaque>Pronto para morar</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/09/bd7ce2f9c77531d5688bd23c2c154722.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00073</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Imperdível: Casa à venda em Araraquara-SP, Jardim do Carmo - 3 quartos, 1 suíte, 3 salas, 3 banheiros e 2 vagas de garagem!</titulo>
+    <descricao />
+    <preco>850000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>JARDIM DO CARMO</bairro>
+    <dormitorios>3</dormitorios>
+    <suites>1</suites>
+    <vagas>4</vagas>
+    <area_construida>309,28</area_construida>
+    <area_terreno>541</area_terreno>
+    <destaque>Oportunidade</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/09/41292a077b0826a3285e501210da8405.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>AP00047</codigo>
+    <tipo>APARTAMENTO</tipo>
+    <titulo>Apartamento à venda em Araraquara-SP, Parque Laranjeiras: 2 quartos, sala, banheiro, vaga de garagem!</titulo>
+    <descricao />
+    <preco>240000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>PARQUE LARANJEIRAS</bairro>
+    <dormitorios>2</dormitorios>
+    <suites>0</suites>
+    <vagas>1</vagas>
+    <area_construida>53,13</area_construida>
+    <area_terreno>0</area_terreno>
+    <destaque>Pronto para morar</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/09/f3563b53363c6b75571cc2f19bb8c1d2.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>AP00048</codigo>
+    <tipo>APARTAMENTO</tipo>
+    <titulo>Apartamento à venda no Centro de Araraquara-SP: 3 quartos, 1 suíte, 2 salas, 3 banheiros, 2 vagas de garagem, 102,59 m². Venha conferir!</titulo>
+    <descricao />
+    <preco>790000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>CENTRO</bairro>
+    <dormitorios>3</dormitorios>
+    <suites>1</suites>
+    <vagas>2</vagas>
+    <area_construida>102,59</area_construida>
+    <area_terreno>0</area_terreno>
+    <destaque>Pronto para morar</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/09/81eb1e6099f19661e8386a0cd6a6b3d1.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00074</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Imperdível casa à venda em Araraquara-SP, Jardim Morumbi: 3 quartos, 1 suíte, 2 salas, 4 banheiros, 2 vagas, 291m²!</titulo>
+    <descricao />
+    <preco>700000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>JARDIM MORUMBI</bairro>
+    <dormitorios>3</dormitorios>
+    <suites>1</suites>
+    <vagas>2</vagas>
+    <area_construida>291</area_construida>
+    <area_terreno>420</area_terreno>
+    <destaque>Oportunidade</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/09/c67646f1e2f8b1e889467ee3d9d64a88.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00075</codigo>
+    <tipo>CASA</tipo>
+    <titulo>0</titulo>
+    <descricao />
+    <preco>795000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>JARDIM BOUNGANVILLE</bairro>
+    <dormitorios>3</dormitorios>
+    <suites>1</suites>
+    <vagas>4</vagas>
+    <area_construida>199,82</area_construida>
+    <area_terreno>390</area_terreno>
+    <destaque>Oportunidade</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/09/a70d552c23d97f0877b8076f9469a7d7.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>AP00049</codigo>
+    <tipo>APARTAMENTO</tipo>
+    <titulo>Apartamento à venda no Centro de Araraquara-SP: 2 quartos, 1 suíte, 2 salas, 2 vagas, 60,72m² de área. Venha conferir!</titulo>
+    <descricao />
+    <preco>420000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>CENTRO</bairro>
+    <dormitorios>2</dormitorios>
+    <suites>1</suites>
+    <vagas>2</vagas>
+    <area_construida>60,72</area_construida>
+    <area_terreno>0</area_terreno>
+    <destaque>Pronto para morar</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/09/43405813954f33a6e824ddcb380ac93b.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>AP00050</codigo>
+    <tipo>APARTAMENTO</tipo>
+    <titulo>Apartamento à venda em Araraquara-SP, bairro São Geraldo! 2 quartos, 1 suíte, 2 salas, 2 banheiros, 1 vaga, 58m². Confira!</titulo>
+    <descricao />
+    <preco>480000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>São Geraldo</bairro>
+    <dormitorios>2</dormitorios>
+    <suites>1</suites>
+    <vagas>1</vagas>
+    <area_construida>58</area_construida>
+    <area_terreno>0</area_terreno>
+    <destaque>Pronto para morar</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/09/9969cfa7c4831ff879ec8329e0c75d7c.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>AP00051</codigo>
+    <tipo>APARTAMENTO</tipo>
+    <titulo>Apartamento de Luxo à Venda em Araraquara, São Geraldo: 2 Quartos, 1 Suíte, 2 Salas, 1 Vaga, 72m². Venha Conferir!</titulo>
+    <descricao />
+    <preco>600000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>São Geraldo</bairro>
+    <dormitorios>2</dormitorios>
+    <suites>1</suites>
+    <vagas>1</vagas>
+    <area_construida>72</area_construida>
+    <area_terreno>0</area_terreno>
+    <destaque>Pronto para morar</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/09/1ab9c513bc57d82a2161f3f25294047d.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00076</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Imperdível: Casa à venda em Araraquara-SP, Residencial Portal dos Oitis, 3 quartos, 3 suítes, 4 salas, 6 banheiros, 6 vagas, 325m².</titulo>
+    <descricao />
+    <preco>3800000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>RESIDENCIAL PORTAL DOS OITIS</bairro>
+    <dormitorios>3</dormitorios>
+    <suites>3</suites>
+    <vagas>6</vagas>
+    <area_construida>325</area_construida>
+    <area_terreno>632</area_terreno>
+    <destaque>Alto padrão</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/09/916e0e9776113715682e9af24431dcc0.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00077</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Casa à venda em Araraquara-SP: 3 quartos, 3 suítes, 2 salas, 4 banheiros, 2 vagas de garagem, 186 m² no Condomínio Portal das Tipuanas.</titulo>
+    <descricao />
+    <preco>1590000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>CONDOMÍNIO PORTAL DAS TIPUANAS</bairro>
+    <dormitorios>3</dormitorios>
+    <suites>3</suites>
+    <vagas>2</vagas>
+    <area_construida>186</area_construida>
+    <area_terreno>336</area_terreno>
+    <destaque>Alto padrão</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/09/770dcc7b903f940451c47bb0045a35a7.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00078</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Casa à venda no Vale do Sol, Araraquara-SP: 2 quartos, 2 salas, 2 banheiros, 2 vagas e 200m² de área. Venha conferir!</titulo>
+    <descricao />
+    <preco>550000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>VALE DO SOL</bairro>
+    <dormitorios>2</dormitorios>
+    <suites>0</suites>
+    <vagas>2</vagas>
+    <area_construida>200</area_construida>
+    <area_terreno>255</area_terreno>
+    <destaque>Oportunidade</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/09/4c1114b9c02784c68ef011d7c377397b.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CH00006</codigo>
+    <tipo>CHACARA</tipo>
+    <titulo>Chácara de luxo à venda em Araraquara-SP, Portal das Laranjeiras: 4 quartos, 3 suítes, 3 salas, 5 banheiros, 10 vagas, 701,13m²!</titulo>
+    <descricao />
+    <preco>1100000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>PORTAL DAS LARANJEIRAS</bairro>
+    <dormitorios>4</dormitorios>
+    <suites>3</suites>
+    <vagas>10</vagas>
+    <area_construida>701,13</area_construida>
+    <area_terreno>5005</area_terreno>
+    <destaque>Alto padrão</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/09/e27b657afba5b8dac9fab0a7776deeee.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00079</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Imperdível oportunidade: Casa à venda em Araraquara-SP, Jardim Dom Pedro I - 3 quartos, 1 suíte, 1 sala, 1 banheiro, 1 vaga, 50m².</titulo>
+    <descricao />
+    <preco>240000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>JARDIM DOM PEDRO I</bairro>
+    <dormitorios>3</dormitorios>
+    <suites>1</suites>
+    <vagas>1</vagas>
+    <area_construida>551,10</area_construida>
+    <area_terreno>372,73</area_terreno>
+    <destaque>Oportunidade</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/09/fb97e8765b57049f7b6f91572df0d3ce.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00080</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Imperdível oportunidade de adquirir uma bela casa no Jardim Biagioni em Araraquara-SP! Casa com 3 quartos, 1 suíte, 2 salas, 4 banheiros, 2 vagas de garagem e 180m².</titulo>
+    <descricao />
+    <preco>650000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>JARDIM BIAGIONI</bairro>
+    <dormitorios>3</dormitorios>
+    <suites>1</suites>
+    <vagas>2</vagas>
+    <area_construida>180</area_construida>
+    <area_terreno>300</area_terreno>
+    <destaque>Oportunidade</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/09/c65e908fa658e4f54abe6bb5fd254c5e.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00081</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Imperdível! Casa à venda em Araraquara-SP, Residencial Village Damha III, 3 quartos, 3 suítes, 2 salas, 4 banheiros, 2 vagas de garagem, 179m².</titulo>
+    <descricao />
+    <preco>1380000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>RESIDENCIAL VILLAGE DAMHA III</bairro>
+    <dormitorios>3</dormitorios>
+    <suites>3</suites>
+    <vagas>2</vagas>
+    <area_construida>179</area_construida>
+    <area_terreno>302</area_terreno>
+    <destaque>Alto padrão</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/09/287703752f31fd0c4d504827aa2d8081.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>AP00052</codigo>
+    <tipo>APARTAMENTO</tipo>
+    <titulo>Apartamento à venda em Araraquara-SP, Jardim do Carmo: 3 quartos, 2 suítes, 2 salas, 2 vagas de garagem, 113,43 m².</titulo>
+    <descricao />
+    <preco>800000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>JARDIM DO CARMO</bairro>
+    <dormitorios>3</dormitorios>
+    <suites>2</suites>
+    <vagas>2</vagas>
+    <area_construida>113,43</area_construida>
+    <area_terreno>0</area_terreno>
+    <destaque>Pronto para morar</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/09/910d5b87b18c2dd6d32dc76f47720c2d.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00082</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Imperdível oportunidade: Casa à venda em Araraquara-SP, Residencial Volpi, 3 quartos, 1 suíte, 3 salas, 4 vagas, 156,40m². Confira!</titulo>
+    <descricao />
+    <preco>1100000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>RESIDENCIAL VOLPI</bairro>
+    <dormitorios>3</dormitorios>
+    <suites>1</suites>
+    <vagas>4</vagas>
+    <area_construida>156,40</area_construida>
+    <area_terreno>269,71</area_terreno>
+    <destaque>Alto padrão</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/09/f1d555a54dd9ebae5752f78760e61f6c.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00083</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Imperdível oportunidade: Casa à venda em Araraquara-SP, Residencial Portal dos Oitis, 3 quartos, 3 suítes, 3 salas, 5 banheiros, 6 vagas, 100m²</titulo>
+    <descricao />
+    <preco>2100000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>RESIDENCIAL PORTAL DOS OITIS</bairro>
+    <dormitorios>3</dormitorios>
+    <suites>3</suites>
+    <vagas>6</vagas>
+    <area_construida>613</area_construida>
+    <area_terreno>434</area_terreno>
+    <destaque>Alto padrão</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/09/478acceba6866d2d3247a8d4f4660473.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00084</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Residência de Luxo: Casa à Venda ou Locação em Araraquara-SP, Bairro Quinta do Salto, 3 Quartos, 1 Suíte, 4 Banheiros, 4 Vagas, 178m²</titulo>
+    <descricao />
+    <preco>1040000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>QUINTA DO SALTO RESIDENCE</bairro>
+    <dormitorios>3</dormitorios>
+    <suites>1</suites>
+    <vagas>4</vagas>
+    <area_construida>178</area_construida>
+    <area_terreno>300</area_terreno>
+    <destaque>Alto padrão</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/09/f0ccca13460d687277f9eddf4f78ff7e.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00085</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Espaçosa casa de luxo para venda ou locação no Centro de Araraquara-SP: 4 quartos, 3 suítes, 3 salas, 5 banheiros, 4 vagas de garagem, 373m².</titulo>
+    <descricao />
+    <preco>2000000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>CENTRO</bairro>
+    <dormitorios>4</dormitorios>
+    <suites>3</suites>
+    <vagas>4</vagas>
+    <area_construida>373</area_construida>
+    <area_terreno>551</area_terreno>
+    <destaque>Alto padrão</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/09/78f2316391931a2447b8cae8734088e3.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00086</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Casa à venda em Araraquara-SP, Residencial Village Damha II: 3 quartos, 3 suítes, 2 salas, 4 banheiros, 4 vagas - 165,90 m².</titulo>
+    <descricao />
+    <preco>1350000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>RESIDENCIAL VILLAGE DAMHA II</bairro>
+    <dormitorios>3</dormitorios>
+    <suites>3</suites>
+    <vagas>4</vagas>
+    <area_construida>165,90</area_construida>
+    <area_terreno>300</area_terreno>
+    <destaque>Alto padrão</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/09/c6f62d421d4b2725fb67aca0b2b32119.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>AP00053</codigo>
+    <tipo>APARTAMENTO</tipo>
+    <titulo>Apartamento de 3 suítes no Centro de Araraquara-SP com 145m² e 3 vagas de garagem! Venha conferir!</titulo>
+    <descricao />
+    <preco>1200000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>CENTRO</bairro>
+    <dormitorios>3</dormitorios>
+    <suites>3</suites>
+    <vagas>3</vagas>
+    <area_construida>145</area_construida>
+    <area_terreno>145</area_terreno>
+    <destaque>Alto padrão</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/09/bca552ca88bbd1b7f85ccd85de72d712.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>AP00054</codigo>
+    <tipo>APARTAMENTO</tipo>
+    <titulo>Imperdível oportunidade: Apartamento à venda no Centro de Araraquara-SP, 3 quartos, 1 suíte, 2 salas, 3 banheiros, 2 vagas, 133,02m².</titulo>
+    <descricao />
+    <preco>350000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>CENTRO</bairro>
+    <dormitorios>3</dormitorios>
+    <suites>1</suites>
+    <vagas>2</vagas>
+    <area_construida>133,02</area_construida>
+    <area_terreno>133,02</area_terreno>
+    <destaque>Pronto para morar</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/09/e96f40a2ddba46a8251c34a0ad9ef495.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>AP00055</codigo>
+    <tipo>APARTAMENTO</tipo>
+    <titulo>Imperdível! Apartamento à venda em Araraquara-SP, Vila Xavier, 2 quartos e 71,30 m² de área. Confira já!</titulo>
+    <descricao />
+    <preco>239000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>VILA XAVIER (VILA XAVIER)</bairro>
+    <dormitorios>2</dormitorios>
+    <suites>0</suites>
+    <vagas>0</vagas>
+    <area_construida>71,30</area_construida>
+    <area_terreno>30,04</area_terreno>
+    <destaque>Pronto para morar</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/09/38106acf76de75316b4ee6bd63931eae.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00088</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Casa à venda na Vila Santana, Araraquara-SP: 2 quartos, 2 salas, 1 banheiro, 2 vagas de garagem, 122,54 m² de área.</titulo>
+    <descricao />
+    <preco>240000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>VILA SANTANA</bairro>
+    <dormitorios>2</dormitorios>
+    <suites>0</suites>
+    <vagas>2</vagas>
+    <area_construida>122,54</area_construida>
+    <area_terreno>209,08</area_terreno>
+    <destaque>Oportunidade</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/09/9fa1f088183d5874b8839425c55625c7.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00089</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Imperdível: Casa de alto padrão na Quinta do Salto Residence em Araraquara-SP, com 5 quartos e 3 suítes, 414,46m² de área.</titulo>
+    <descricao />
+    <preco>1850000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>QUINTA DO SALTO RESIDENCE</bairro>
+    <dormitorios>5</dormitorios>
+    <suites>3</suites>
+    <vagas>4</vagas>
+    <area_construida>414,46</area_construida>
+    <area_terreno>300</area_terreno>
+    <destaque>Alto padrão</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/09/f5ddc9e8c3ca389b2062ba2cc3a6784c.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00090</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Espetacular Casa à Venda em Araraquara-SP, no Residencial Village Damha com 3 Quartos, 1 Suíte e 356m² de Área</titulo>
+    <descricao />
+    <preco>2130000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>RESIDENCIAL VILLAGE DAMHA</bairro>
+    <dormitorios>3</dormitorios>
+    <suites>1</suites>
+    <vagas>4</vagas>
+    <area_construida>356</area_construida>
+    <area_terreno>519</area_terreno>
+    <destaque>Alto padrão</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/09/ba92e090166b1365c63e013a7471c527.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00091</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Casa à venda em Araraquara-SP, Jardim dos Flamboyants: 3 quartos, 1 suíte, 2 salas, 3 banheiros, 4 vagas, 175m². Venha conhecer!</titulo>
+    <descricao />
+    <preco>720000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>JARDIM DOS FLAMBOYANTS</bairro>
+    <dormitorios>3</dormitorios>
+    <suites>1</suites>
+    <vagas>4</vagas>
+    <area_construida>175</area_construida>
+    <area_terreno>308</area_terreno>
+    <destaque>Oportunidade</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/09/1bff61b00069c0f47c849dd76f457aaa.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>AP00056</codigo>
+    <tipo>APARTAMENTO</tipo>
+    <titulo>Apartamento de luxo no Centro de Araraquara-SP: 4 quartos, 3 suítes, 2 salas, 4 banheiros, 240m² - Imperdível!</titulo>
+    <descricao />
+    <preco>760000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>CENTRO</bairro>
+    <dormitorios>4</dormitorios>
+    <suites>3</suites>
+    <vagas>2</vagas>
+    <area_construida>240</area_construida>
+    <area_terreno>240</area_terreno>
+    <destaque>Pronto para morar</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/09/94b8a3058ecd901ba0f27dacf36c29c2.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>AP00057</codigo>
+    <tipo>APARTAMENTO</tipo>
+    <titulo>Imperdível oportunidade de adquirir apartamento de luxo no Centro de Araraquara-SP: 3 quartos, 3 suítes, 2 salas, 4 banheiros, 2 vagas de garagem e 240m².</titulo>
+    <descricao />
+    <preco>760000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>CENTRO</bairro>
+    <dormitorios>3</dormitorios>
+    <suites>3</suites>
+    <vagas>2</vagas>
+    <area_construida>240</area_construida>
+    <area_terreno>240</area_terreno>
+    <destaque>Pronto para morar</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/09/714f211e940317bf09d6a4db1e5b59f3.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>AP00058</codigo>
+    <tipo>APARTAMENTO</tipo>
+    <titulo>Imperdível! Apartamento de luxo com 4 quartos e 238,54m² no Centro de Araraquara-SP. Agende sua visita agora!</titulo>
+    <descricao />
+    <preco>800000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>CENTRO</bairro>
+    <dormitorios>4</dormitorios>
+    <suites>1</suites>
+    <vagas>0</vagas>
+    <area_construida>238,54</area_construida>
+    <area_terreno>389,95</area_terreno>
+    <destaque>Pronto para morar</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/09/04fc9b44391517b993935c5b5177466a.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00092</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Imóvel de 3 quartos com suíte e 291m² no Jardim Nova Araraquara: a casa dos seus sonhos!</titulo>
+    <descricao />
+    <preco>650000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>JARDIM NOVA ARARAQUARA</bairro>
+    <dormitorios>3</dormitorios>
+    <suites>1</suites>
+    <vagas>2</vagas>
+    <area_construida>291</area_construida>
+    <area_terreno>412</area_terreno>
+    <destaque>Oportunidade</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/10/29cce9d9dee46c6b9faca5212c1135f8.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00093</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Oportunidade única: Casa à venda em Araraquara-SP, bairro Jardim Tabapuã (Vila Xavier) - 3 quartos, 1 suíte, 1 sala, 2 banheiros, 3 vagas, 219,76m².</titulo>
+    <descricao />
+    <preco>500000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>JARDIM TABAPUÃ (VILA XAVIER)</bairro>
+    <dormitorios>3</dormitorios>
+    <suites>1</suites>
+    <vagas>3</vagas>
+    <area_construida>219,76</area_construida>
+    <area_terreno>301</area_terreno>
+    <destaque>Oportunidade</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/10/7e4922ce8d34fb70c53e1663872fea41.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00094</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Imperdível: Casa à venda em Araraquara-SP, Jardim Maggiore, 2 quartos, 1 suíte, 1 sala, 2 banheiros, 97,40m². Confira!</titulo>
+    <descricao />
+    <preco>450000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>Jardim Maggiore</bairro>
+    <dormitorios>2</dormitorios>
+    <suites>1</suites>
+    <vagas>0</vagas>
+    <area_construida>97,40</area_construida>
+    <area_terreno>262,11</area_terreno>
+    <destaque>Oportunidade</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/10/c9fbb505b64a53b6e2e3f870a5148052.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00095</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Imperdível oportunidade: Casa à venda em Araraquara-SP, Residencial Volpi, 3 quartos, 3 suítes, 2 salas, 5 banheiros, 4 vagas, 183m².</titulo>
+    <descricao />
+    <preco>1230000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>RESIDENCIAL VOLPI</bairro>
+    <dormitorios>3</dormitorios>
+    <suites>3</suites>
+    <vagas>4</vagas>
+    <area_construida>183</area_construida>
+    <area_terreno>300</area_terreno>
+    <destaque>Alto padrão</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/10/6d1ffbc84b68409d77ee2e6601af4d10.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CH00007</codigo>
+    <tipo>CHACARA</tipo>
+    <titulo>Chácara de Luxo na Chácara Flora Araraquara-SP: 3 quartos, 2 suítes, 2 salas, 3 banheiros, 10 vagas, 198m²!</titulo>
+    <descricao />
+    <preco>650000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>CHÁCARA FLORA ARARAQUARA</bairro>
+    <dormitorios>3</dormitorios>
+    <suites>2</suites>
+    <vagas>10</vagas>
+    <area_construida>198</area_construida>
+    <area_terreno>4000</area_terreno>
+    <destaque>Oportunidade</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/10/c80d28b7a8cb82e43a9d1276299f22d2.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00096</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Imperdível! Casa à venda em Araraquara-SP, Jardim Residencial Vale do Campo: 3 quartos, 1 suíte, 2 salas, 2 banheiros, 2 vagas, 180m².</titulo>
+    <descricao />
+    <preco>850000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>JARDIM RESIDENCIAL VALE DO CAMPO</bairro>
+    <dormitorios>3</dormitorios>
+    <suites>1</suites>
+    <vagas>2</vagas>
+    <area_construida>180</area_construida>
+    <area_terreno>240,03</area_terreno>
+    <destaque>Oportunidade</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/10/30a1f1e28eab592522adc1c5c46ef3f4.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00097</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Imperdível Casa à Venda em Araraquara-SP, Jardim Morumbi: 4 quartos, 1 suíte, 3 salas, 4 banheiros, 4 vagas, 372,54m²!</titulo>
+    <descricao />
+    <preco>790000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>JARDIM MORUMBI</bairro>
+    <dormitorios>4</dormitorios>
+    <suites>1</suites>
+    <vagas>4</vagas>
+    <area_construida>372,54</area_construida>
+    <area_terreno>567,54</area_terreno>
+    <destaque>Oportunidade</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/10/e69ce1059a0530cbd6569092dd6ba38d.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00098</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Imperdível! Casa à venda em Araraquara-SP, na Vila Sedenho: 2 quartos, 1 sala, 2 banheiros, 86,78 m² de área.</titulo>
+    <descricao />
+    <preco>190000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>VILA SEDENHO</bairro>
+    <dormitorios>2</dormitorios>
+    <suites>0</suites>
+    <vagas>0</vagas>
+    <area_construida>86,78</area_construida>
+    <area_terreno>144</area_terreno>
+    <destaque>Oportunidade</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/10/c99a596be6012021d8e7208fec5abde0.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>AP00059</codigo>
+    <tipo>APARTAMENTO</tipo>
+    <titulo>Apartamento à venda no Centro de Araraquara-SP: 2 quartos, 1 vaga, 56,75 m². Aproveite esta oportunidade única!</titulo>
+    <descricao />
+    <preco>185000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>Centro Araraquara</bairro>
+    <dormitorios>2</dormitorios>
+    <suites>0</suites>
+    <vagas>1</vagas>
+    <area_construida>56,75</area_construida>
+    <area_terreno>65,04</area_terreno>
+    <destaque>Pronto para morar</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/10/261a1734a831d72cec45d285fb1b934f.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>AP00060</codigo>
+    <tipo>APARTAMENTO</tipo>
+    <titulo>Imperdível oportunidade: Apartamento de 3 quartos com suíte no Jardim do Carmo, Araraquara-SP, 116m², 2 vagas. Venda ou locação!</titulo>
+    <descricao />
+    <preco>640000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>JARDIM DO CARMO</bairro>
+    <dormitorios>3</dormitorios>
+    <suites>1</suites>
+    <vagas>2</vagas>
+    <area_construida>116</area_construida>
+    <area_terreno>0</area_terreno>
+    <destaque>Pronto para morar</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/10/3f83b61eadaa2402b5528e15c169eabe.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>AP00061</codigo>
+    <tipo>APARTAMENTO</tipo>
+    <titulo>Imperdível! Apartamento à venda em Araraquara-SP, Campos Ville, 1 quarto, 1 banheiro, 1 vaga, 229,28 m². Chegou a sua chance!</titulo>
+    <descricao />
+    <preco>550000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>CAMPOS VILLE</bairro>
+    <dormitorios>1</dormitorios>
+    <suites>0</suites>
+    <vagas>1</vagas>
+    <area_construida>229,28</area_construida>
+    <area_terreno>508</area_terreno>
+    <destaque>Pronto para morar</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/10/c2b381bf222017d72fd1cf033cc9f101.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00099</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Imperdível oportunidade: Casa à venda no Jardim Europa em Araraquara-SP, 3 quartos, 1 suíte, 3 salas, 2 banheiros, 5 vagas, 205,65m²!</titulo>
+    <descricao />
+    <preco>600000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>JARDIM EUROPA (VILA XAVIER)</bairro>
+    <dormitorios>3</dormitorios>
+    <suites>1</suites>
+    <vagas>5</vagas>
+    <area_construida>205,65</area_construida>
+    <area_terreno>342</area_terreno>
+    <destaque>Oportunidade</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/11/cdbe004018c34a6e12ff0f699cd09e9a.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00100</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Imperdível Casa à Venda em Araraquara-SP, Jardim das Estações: 3 quartos, 1 suíte, 2 salas, 3 banheiros, 5 vagas, 224,87m²!</titulo>
+    <descricao />
+    <preco>580000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>JARDIM DAS ESTAÇÕES (VILA XAVIER)</bairro>
+    <dormitorios>3</dormitorios>
+    <suites>1</suites>
+    <vagas>5</vagas>
+    <area_construida>224,87</area_construida>
+    <area_terreno>492,62</area_terreno>
+    <destaque>Oportunidade</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/11/41ff61526f1105d72ff1eebf0221a1a1.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CH00008</codigo>
+    <tipo>CHACARA</tipo>
+    <titulo>Chácara de luxo à venda em Araraquara-SP, bairro Chácara Flora: 2 quartos, 1 sala, 3 vagas, 126,34 m² de área.</titulo>
+    <descricao />
+    <preco>795000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>CHÁCARA FLORA ARARAQUARA</bairro>
+    <dormitorios>2</dormitorios>
+    <suites>0</suites>
+    <vagas>3</vagas>
+    <area_construida>218,23</area_construida>
+    <area_terreno>4000</area_terreno>
+    <destaque>Oportunidade</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/11/dec34dbc3b2c5ee9d3355098a81ac52b.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>AP00062</codigo>
+    <tipo>APARTAMENTO</tipo>
+    <titulo>Imperdível oportunidade: Apartamento à venda na Vila Xavier, Araraquara-SP, com 2 quartos, sala, garagem e 46m²!</titulo>
+    <descricao />
+    <preco>150000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>VILA XAVIER (VILA XAVIER)</bairro>
+    <dormitorios>2</dormitorios>
+    <suites>0</suites>
+    <vagas>1</vagas>
+    <area_construida>46</area_construida>
+    <area_terreno>0</area_terreno>
+    <destaque>Pronto para morar</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/11/26187a7ddf6786d6020c5ded087d1d05.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00101</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Imperdível: Casa à venda em Araraquara-SP, Parque Laranjeiras, 4 quartos, 2 suítes, 225m², 4 vagas!</titulo>
+    <descricao />
+    <preco>440000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>PARQUE LARANJEIRAS</bairro>
+    <dormitorios>4</dormitorios>
+    <suites>2</suites>
+    <vagas>4</vagas>
+    <area_construida>225</area_construida>
+    <area_terreno>306</area_terreno>
+    <destaque>Oportunidade</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/11/c906f92db9a27651823413ef44bd2cf8.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00102</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Excelente oportunidade de casa à venda em Araraquara-SP, Jardim Dumont: 2 quartos, 1 sala, 1 banheiro, 2 vagas de garagem, 70,72m²</titulo>
+    <descricao />
+    <preco>200000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>JARDIM DUMONT</bairro>
+    <dormitorios>2</dormitorios>
+    <suites>0</suites>
+    <vagas>2</vagas>
+    <area_construida>70,72</area_construida>
+    <area_terreno>160</area_terreno>
+    <destaque>Oportunidade</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/12/3c66fe6029f60183d4f62d1618130a0b.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>AP00063</codigo>
+    <tipo>APARTAMENTO</tipo>
+    <titulo>Apartamento à venda em Araraquara-SP: 2 quartos, 1 sala, 1 banheiro, 1 vaga de garagem no Jardim Universal!</titulo>
+    <descricao />
+    <preco>141990</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>JARDIM UNIVERSAL</bairro>
+    <dormitorios>2</dormitorios>
+    <suites>0</suites>
+    <vagas>1</vagas>
+    <area_construida>39</area_construida>
+    <area_terreno>87,51</area_terreno>
+    <destaque>Pronto para morar</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/12/ad70a3dafb7824fe2af98d249d48cfeb.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00103</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Imperdível oportunidade: Casa à venda em Araraquara-SP, São Geraldo. 3 quartos, 2 suítes, 3 salas, 5 banheiros, 6 vagas, 283,30 m².</titulo>
+    <descricao />
+    <preco>700000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>São Geraldo</bairro>
+    <dormitorios>3</dormitorios>
+    <suites>2</suites>
+    <vagas>6</vagas>
+    <area_construida>283,30</area_construida>
+    <area_terreno>381,25</area_terreno>
+    <destaque>Oportunidade</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/12/f0b425b3297ea008f0dea5f5fe935ba4.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00104</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Imperdível oportunidade de adquirir uma casa de alto padrão na Vila Suconasa em Araraquara-SP, com 4 quartos e 5 vagas de garagem!</titulo>
+    <descricao />
+    <preco>340000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>VILA SUCONASA</bairro>
+    <dormitorios>4</dormitorios>
+    <suites>0</suites>
+    <vagas>5</vagas>
+    <area_construida>167,98</area_construida>
+    <area_terreno>300</area_terreno>
+    <destaque>Oportunidade</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/12/e0bbd33dbcb5ee31c2b56d1cf28bb1c0.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>AP00064</codigo>
+    <tipo>APARTAMENTO</tipo>
+    <titulo>Oportunidade única! Apartamento à venda em Araraquara-SP, no Jardim Bounganville, com 2 quartos, 1 sala, 1 vaga de garagem e 61,89 m².</titulo>
+    <descricao />
+    <preco>300000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>JARDIM BOUNGANVILLE</bairro>
+    <dormitorios>2</dormitorios>
+    <suites>0</suites>
+    <vagas>1</vagas>
+    <area_construida>61,89</area_construida>
+    <area_terreno>72,05</area_terreno>
+    <destaque>Pronto para morar</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/12/187c47e97ec9c9dfc80e2a0dc5300b57.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00105</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Apartamento de 2 Quartos no Jardim Boa Vista - Araraquara-SP: 3 vagas de garagem e 51,85 m² de área!</titulo>
+    <descricao />
+    <preco>385000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>JARDIM BOA VISTA</bairro>
+    <dormitorios>2</dormitorios>
+    <suites>0</suites>
+    <vagas>3</vagas>
+    <area_construida>51,85</area_construida>
+    <area_terreno>200</area_terreno>
+    <destaque>Oportunidade</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/12/7b2c5aeca3c09c360ca3d26ee143d432.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>TE00023</codigo>
+    <tipo>TERRENO</tipo>
+    <titulo>Terreno à venda em Araraquara-SP, Jardim Roberto Selmi Dei, 312,50 m² de área!</titulo>
+    <descricao />
+    <preco>105000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>JARDIM ROBERTO SELMI DEI</bairro>
+    <dormitorios>0</dormitorios>
+    <suites>0</suites>
+    <vagas>0</vagas>
+    <area_construida>0</area_construida>
+    <area_terreno>312,50</area_terreno>
+    <destaque>Para construir</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2025/12/046b7ebecfd313971d945f02c4acf196.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00106</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Casa à venda em Araraquara-SP, Vila Suconasa: 4 quartos, 2 suítes, 2 salas, 3 banheiros, 4 vagas, 187,12 m². Imperdível!</titulo>
+    <descricao />
+    <preco>595000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>VILA SUCONASA</bairro>
+    <dormitorios>4</dormitorios>
+    <suites>2</suites>
+    <vagas>4</vagas>
+    <area_construida>187,12</area_construida>
+    <area_terreno>300</area_terreno>
+    <destaque>Oportunidade</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2026/01/7564f512f16a8748bf3ce8ff4281f0e1.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00107</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Imperdível oportunidade de compra: Casa à venda em Araraquara-SP, Vila Suconasa, 2 quartos, 1 sala, 3 banheiros, 2 vagas de garagem, 167,98 m².</titulo>
+    <descricao />
+    <preco>320000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>VILA SUCONASA</bairro>
+    <dormitorios>2</dormitorios>
+    <suites>0</suites>
+    <vagas>2</vagas>
+    <area_construida>167,98</area_construida>
+    <area_terreno>300</area_terreno>
+    <destaque>Oportunidade</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2026/01/4ca49add9bdd2942c968d8121232c01c.jpg</foto_url>
+  </imovel>
+  <imovel>
+    <codigo>CA00108</codigo>
+    <tipo>CASA</tipo>
+    <titulo>Oportunidade única: Casa à venda em Araraquara-SP, no Jardim Martines, com 3 quartos, 2 banheiros, 2 vagas de garagem e 169,95 m².</titulo>
+    <descricao />
+    <preco>370000</preco>
+    <cidade>ARARAQUARA</cidade>
+    <bairro>JARDIM MARTINES</bairro>
+    <dormitorios>3</dormitorios>
+    <suites>0</suites>
+    <vagas>2</vagas>
+    <area_construida>169,95</area_construida>
+    <area_terreno>211</area_terreno>
+    <destaque>Oportunidade</destaque>
+    <foto_url>https://cdn.uso.com.br/914733/2026/01/805f1a51a50e73cde2e3edcc6ff470ea.jpg</foto_url>
+  </imovel>
+</imoveis>
